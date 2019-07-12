@@ -1,0 +1,2599 @@
+Zip Code,City,County,Type
+73301,Austin,Travis,Unique
+73344,Austin,Travis,Unique
+73960,Texhoma,Sherman,P.O. Box
+75001,Addison,Dallas,Standard
+75002,Allen,Collin,Standard
+75006,Carrollton,Dallas,Standard
+75007,Carrollton,Denton,Standard
+75009,Celina,Collin,Standard
+75010,Carrollton,Denton,Standard
+75011,Carrollton,Dallas,P.O. Box
+75013,Allen,Collin,Standard
+75014,Irving,Dallas,P.O. Box
+75015,Irving,Dallas,P.O. Box
+75016,Irving,Dallas,P.O. Box
+75017,Irving,Dallas,P.O. Box
+75019,Coppell,Dallas,Standard
+75020,Denison,Grayson,Standard
+75021,Denison,Grayson,Standard
+75022,Flower Mound,Denton,Standard
+75023,Plano,Collin,Standard
+75024,Plano,Collin,Standard
+75025,Plano,Collin,Standard
+75026,Plano,Collin,P.O. Box
+75027,Flower Mound,Denton,P.O. Box
+75028,Flower Mound,Denton,Standard
+75029,Lewisville,Denton,P.O. Box
+75030,Rowlett,Dallas,P.O. Box
+75032,Rockwall,Rockwall,Standard
+75033,Frisco,Denton,Standard
+75034,Frisco,Denton,Standard
+75035,Frisco,Collin,Standard
+75036,Frisco,Denton,Standard
+75038,Irving,Dallas,Standard
+75039,Irving,Dallas,Standard
+75040,Garland,Dallas,Standard
+75041,Garland,Dallas,Standard
+75042,Garland,Dallas,Standard
+75043,Garland,Dallas,Standard
+75044,Garland,Dallas,Standard
+75045,Garland,Dallas,P.O. Box
+75046,Garland,Dallas,P.O. Box
+75047,Garland,Dallas,P.O. Box
+75048,Sachse,Dallas,Standard
+75049,Garland,Dallas,P.O. Box
+75050,Grand Prairie,Dallas,Standard
+75051,Grand Prairie,Dallas,Standard
+75052,Grand Prairie,Dallas,Standard
+75053,Grand Prairie,Dallas,P.O. Box
+75054,Grand Prairie,Dallas,Standard
+75056,The Colony,Denton,Standard
+75057,Lewisville,Denton,Standard
+75058,Gunter,Grayson,Standard
+75059,Irving,Dallas,Unique
+75060,Irving,Dallas,Standard
+75061,Irving,Dallas,Standard
+75062,Irving,Dallas,Standard
+75063,Irving,Dallas,Standard
+75064,Irving,Dallas,Unique
+75065,Lake Dallas,Denton,Standard
+75067,Lewisville,Denton,Standard
+75068,Little Elm,Denton,Standard
+75069,Mckinney,Collin,Standard
+75070,Mckinney,Collin,Standard
+75071,Mckinney,Collin,Standard
+75072,Mckinney,Collin,Standard
+75074,Plano,Collin,Standard
+75075,Plano,Collin,Standard
+75076,Pottsboro,Grayson,Standard
+75077,Lewisville,Denton,Standard
+75078,Prosper,Collin,Standard
+75080,Richardson,Dallas,Standard
+75081,Richardson,Dallas,Standard
+75082,Richardson,Dallas,Standard
+75083,Richardson,Dallas,P.O. Box
+75085,Richardson,Dallas,P.O. Box
+75086,Plano,Collin,P.O. Box
+75087,Rockwall,Rockwall,Standard
+75088,Rowlett,Dallas,Standard
+75089,Rowlett,Dallas,Standard
+75090,Sherman,Grayson,Standard
+75091,Sherman,Grayson,P.O. Box
+75092,Sherman,Grayson,Standard
+75093,Plano,Collin,Standard
+75094,Plano,Collin,Standard
+75097,Weston,Collin,P.O. Box
+75098,Wylie,Collin,Standard
+75099,Coppell,Dallas,Unique
+75101,Bardwell,Ellis,P.O. Box
+75102,Barry,Navarro,Standard
+75103,Canton,Van Zandt,Standard
+75104,Cedar Hill,Dallas,Standard
+75105,Chatfield,Navarro,Standard
+75106,Cedar Hill,Dallas,P.O. Box
+75109,Corsicana,Navarro,Standard
+75110,Corsicana,Navarro,Standard
+75114,Crandall,Kaufman,Standard
+75115,Desoto,Dallas,Standard
+75116,Duncanville,Dallas,Standard
+75117,Edgewood,Van Zandt,Standard
+75118,Elmo,Kaufman,P.O. Box
+75119,Ennis,Ellis,Standard
+75120,Ennis,Ellis,P.O. Box
+75121,Copeville,Collin,P.O. Box
+75123,Desoto,Dallas,P.O. Box
+75124,Eustace,Henderson,Standard
+75125,Ferris,Ellis,Standard
+75126,Forney,Kaufman,Standard
+75127,Fruitvale,Van Zandt,Standard
+75132,Fate,Rockwall,P.O. Box
+75134,Lancaster,Dallas,Standard
+75135,Caddo Mills,Hunt,Standard
+75137,Duncanville,Dallas,Standard
+75138,Duncanville,Dallas,P.O. Box
+75140,Grand Saline,Van Zandt,Standard
+75141,Hutchins,Dallas,Standard
+75142,Kaufman,Kaufman,Standard
+75143,Kemp,Kaufman,Standard
+75144,Kerens,Navarro,Standard
+75146,Lancaster,Dallas,Standard
+75147,Mabank,Kaufman,Standard
+75148,Malakoff,Henderson,Standard
+75149,Mesquite,Dallas,Standard
+75150,Mesquite,Dallas,Standard
+75151,Corsicana,Navarro,P.O. Box
+75152,Palmer,Ellis,Standard
+75153,Powell,Navarro,Standard
+75154,Red Oak,Ellis,Standard
+75155,Rice,Navarro,Standard
+75156,Mabank,Henderson,Standard
+75157,Rosser,Kaufman,P.O. Box
+75158,Scurry,Kaufman,Standard
+75159,Seagoville,Dallas,Standard
+75160,Terrell,Kaufman,Standard
+75161,Terrell,Kaufman,Standard
+75163,Trinidad,Henderson,Standard
+75164,Josephine,Collin,P.O. Box
+75165,Waxahachie,Ellis,Standard
+75166,Lavon,Collin,Standard
+75167,Waxahachie,Ellis,Standard
+75168,Waxahachie,Ellis,P.O. Box
+75169,Wills Point,Van Zandt,Standard
+75172,Wilmer,Dallas,Standard
+75173,Nevada,Collin,Standard
+75180,Balch Springs,Dallas,Standard
+75181,Mesquite,Dallas,Standard
+75182,Sunnyvale,Dallas,Standard
+75185,Mesquite,Dallas,P.O. Box
+75187,Mesquite,Dallas,P.O. Box
+75189,Royse City,Rockwall,Standard
+75201,Dallas,Dallas,Standard
+75202,Dallas,Dallas,Standard
+75203,Dallas,Dallas,Standard
+75204,Dallas,Dallas,Standard
+75205,Dallas,Dallas,Standard
+75206,Dallas,Dallas,Standard
+75207,Dallas,Dallas,Standard
+75208,Dallas,Dallas,Standard
+75209,Dallas,Dallas,Standard
+75210,Dallas,Dallas,Standard
+75211,Dallas,Dallas,Standard
+75212,Dallas,Dallas,Standard
+75214,Dallas,Dallas,Standard
+75215,Dallas,Dallas,Standard
+75216,Dallas,Dallas,Standard
+75217,Dallas,Dallas,Standard
+75218,Dallas,Dallas,Standard
+75219,Dallas,Dallas,Standard
+75220,Dallas,Dallas,Standard
+75221,Dallas,Dallas,P.O. Box
+75222,Dallas,Dallas,P.O. Box
+75223,Dallas,Dallas,Standard
+75224,Dallas,Dallas,Standard
+75225,Dallas,Dallas,Standard
+75226,Dallas,Dallas,Standard
+75227,Dallas,Dallas,Standard
+75228,Dallas,Dallas,Standard
+75229,Dallas,Dallas,Standard
+75230,Dallas,Dallas,Standard
+75231,Dallas,Dallas,Standard
+75232,Dallas,Dallas,Standard
+75233,Dallas,Dallas,Standard
+75234,Dallas,Dallas,Standard
+75235,Dallas,Dallas,Standard
+75236,Dallas,Dallas,Standard
+75237,Dallas,Dallas,Standard
+75238,Dallas,Dallas,Standard
+75240,Dallas,Dallas,Standard
+75241,Dallas,Dallas,Standard
+75242,Dallas,Dallas,Standard
+75243,Dallas,Dallas,Standard
+75244,Dallas,Dallas,Standard
+75246,Dallas,Dallas,Standard
+75247,Dallas,Dallas,Standard
+75248,Dallas,Dallas,Standard
+75249,Dallas,Dallas,Standard
+75250,Dallas,Dallas,P.O. Box
+75251,Dallas,Dallas,Standard
+75252,Dallas,Collin,Standard
+75253,Dallas,Dallas,Standard
+75254,Dallas,Dallas,Standard
+75260,Dallas,Dallas,Standard
+75261,Dallas,Dallas,P.O. Box
+75262,Dallas,Dallas,P.O. Box
+75263,Dallas,Dallas,P.O. Box
+75264,Dallas,Dallas,P.O. Box
+75265,Dallas,Dallas,P.O. Box
+75266,Dallas,Dallas,P.O. Box
+75267,Dallas,Dallas,P.O. Box
+75270,Dallas,Dallas,Standard
+75275,Dallas,Dallas,Unique
+75277,Dallas,Dallas,Unique
+75283,Dallas,Dallas,Unique
+75284,Dallas,Dallas,Unique
+75285,Dallas,Dallas,Unique
+75287,Dallas,Collin,Standard
+75301,Dallas,Dallas,Unique
+75303,Dallas,Dallas,Unique
+75312,Dallas,Dallas,Unique
+75313,Dallas,Dallas,P.O. Box
+75315,Dallas,Dallas,P.O. Box
+75320,Dallas,Dallas,Unique
+75326,Dallas,Dallas,Unique
+75336,Dallas,Dallas,P.O. Box
+75339,Dallas,Dallas,P.O. Box
+75342,Dallas,Dallas,Standard
+75354,Dallas,Dallas,P.O. Box
+75355,Dallas,Dallas,P.O. Box
+75356,Dallas,Dallas,P.O. Box
+75357,Dallas,Dallas,P.O. Box
+75358,Dallas,Dallas,Unique
+75359,Dallas,Dallas,P.O. Box
+75360,Dallas,Dallas,P.O. Box
+75367,Dallas,Dallas,P.O. Box
+75368,Dallas,Dallas,Unique
+75370,Dallas,Dallas,P.O. Box
+75371,Dallas,Dallas,P.O. Box
+75372,Dallas,Dallas,P.O. Box
+75373,Dallas,Dallas,Unique
+75374,Dallas,Dallas,P.O. Box
+75376,Dallas,Dallas,P.O. Box
+75378,Dallas,Dallas,P.O. Box
+75379,Dallas,Dallas,P.O. Box
+75380,Dallas,Dallas,P.O. Box
+75381,Dallas,Dallas,P.O. Box
+75382,Dallas,Dallas,P.O. Box
+75389,Dallas,Dallas,Unique
+75390,Dallas,Dallas,Unique
+75391,Dallas,Dallas,Unique
+75392,Dallas,Dallas,Unique
+75393,Dallas,Dallas,Unique
+75394,Dallas,Dallas,Unique
+75395,Dallas,Dallas,Unique
+75397,Dallas,Dallas,Unique
+75398,Dallas,Dallas,Standard
+75401,Greenville,Hunt,Standard
+75402,Greenville,Hunt,Standard
+75403,Greenville,Hunt,P.O. Box
+75404,Greenville,Hunt,P.O. Box
+75407,Princeton,Collin,Standard
+75409,Anna,Collin,Standard
+75410,Alba,Wood,Standard
+75411,Arthur City,Lamar,Standard
+75412,Bagwell,Red River,Standard
+75413,Bailey,Fannin,P.O. Box
+75414,Bells,Grayson,Standard
+75415,Ben Franklin,Delta,Standard
+75416,Blossom,Lamar,Standard
+75417,Bogata,Red River,Standard
+75418,Bonham,Fannin,Standard
+75420,Brashear,Hopkins,Standard
+75421,Brookston,Lamar,Standard
+75422,Campbell,Hunt,Standard
+75423,Celeste,Hunt,Standard
+75424,Blue Ridge,Collin,Standard
+75425,Chicota,Lamar,P.O. Box
+75426,Clarksville,Red River,Standard
+75428,Commerce,Hunt,Standard
+75429,Commerce,Hunt,P.O. Box
+75431,Como,Hopkins,Standard
+75432,Cooper,Delta,Standard
+75433,Cumby,Hopkins,Standard
+75434,Cunningham,Lamar,P.O. Box
+75435,Deport,Lamar,Standard
+75436,Detroit,Red River,Standard
+75437,Dike,Hopkins,Standard
+75438,Dodd City,Fannin,Standard
+75439,Ector,Fannin,Standard
+75440,Emory,Rains,Standard
+75441,Enloe,Delta,P.O. Box
+75442,Farmersville,Collin,Standard
+75443,Gober,Fannin,P.O. Box
+75444,Golden,Wood,P.O. Box
+75446,Honey Grove,Fannin,Standard
+75447,Ivanhoe,Fannin,Standard
+75448,Klondike,Delta,Standard
+75449,Ladonia,Fannin,Standard
+75450,Lake Creek,Delta,Standard
+75451,Leesburg,Camp,Standard
+75452,Leonard,Fannin,Standard
+75453,Lone Oak,Hunt,Standard
+75454,Melissa,Collin,Standard
+75455,Mount Pleasant,Titus,Standard
+75456,Mount Pleasant,Titus,P.O. Box
+75457,Mount Vernon,Franklin,Standard
+75458,Merit,Hunt,P.O. Box
+75459,Howe,Grayson,Standard
+75460,Paris,Lamar,Standard
+75461,Paris,Lamar,P.O. Box
+75462,Paris,Lamar,Standard
+75468,Pattonville,Lamar,Standard
+75469,Pecan Gap,Delta,Standard
+75470,Petty,Lamar,Standard
+75471,Pickton,Hopkins,Standard
+75472,Point,Rains,Standard
+75473,Powderly,Lamar,Standard
+75474,Quinlan,Hunt,Standard
+75475,Randolph,Fannin,P.O. Box
+75476,Ravenna,Fannin,Standard
+75477,Roxton,Lamar,Standard
+75478,Saltillo,Hopkins,Standard
+75479,Savoy,Fannin,Standard
+75480,Scroggins,Franklin,Standard
+75481,Sulphur Bluff,Hopkins,Standard
+75482,Sulphur Springs,Hopkins,Standard
+75483,Sulphur Springs,Hopkins,P.O. Box
+75485,Westminster,Collin,P.O. Box
+75486,Sumner,Lamar,Standard
+75487,Talco,Franklin,Standard
+75488,Telephone,Fannin,Standard
+75489,Tom Bean,Grayson,P.O. Box
+75490,Trenton,Fannin,Standard
+75491,Whitewright,Grayson,Standard
+75492,Windom,Fannin,Standard
+75493,Winfield,Titus,P.O. Box
+75494,Winnsboro,Wood,Standard
+75495,Van Alstyne,Grayson,Standard
+75496,Wolfe City,Hunt,Standard
+75497,Yantis,Wood,Standard
+75501,Texarkana,Bowie,Standard
+75503,Texarkana,Bowie,Standard
+75504,Texarkana,Bowie,P.O. Box
+75505,Texarkana,Bowie,P.O. Box
+75507,Texarkana,Bowie,Unique
+75550,Annona,Red River,Standard
+75551,Atlanta,Cass,Standard
+75554,Avery,Red River,Standard
+75555,Bivins,Cass,Standard
+75556,Bloomburg,Cass,Standard
+75558,Cookville,Titus,Standard
+75559,De Kalb,Bowie,Standard
+75560,Douglassville,Cass,Standard
+75561,Hooks,Bowie,Standard
+75562,Kildare,Cass,P.O. Box
+75563,Linden,Cass,Standard
+75564,Lodi,Marion,P.O. Box
+75565,Mc Leod,Cass,P.O. Box
+75566,Marietta,Cass,Standard
+75567,Maud,Bowie,Standard
+75568,Naples,Morris,Standard
+75569,Nash,Bowie,Standard
+75570,New Boston,Bowie,Standard
+75571,Omaha,Morris,Standard
+75572,Queen City,Cass,Standard
+75573,Redwater,Bowie,P.O. Box
+75574,Simms,Bowie,Standard
+75599,Texarkana,Bowie,Unique
+75601,Longview,Gregg,Standard
+75602,Longview,Gregg,Standard
+75603,Longview,Gregg,Standard
+75604,Longview,Gregg,Standard
+75605,Longview,Gregg,Standard
+75606,Longview,Gregg,P.O. Box
+75607,Longview,Gregg,P.O. Box
+75608,Longview,Gregg,P.O. Box
+75615,Longview,Gregg,P.O. Box
+75630,Avinger,Cass,Standard
+75631,Beckville,Panola,Standard
+75633,Carthage,Panola,Standard
+75636,Cason,Morris,P.O. Box
+75637,Clayton,Panola,P.O. Box
+75638,Daingerfield,Morris,Standard
+75639,De Berry,Panola,Standard
+75640,Diana,Upshur,Standard
+75641,Easton,Gregg,P.O. Box
+75642,Elysian Fields,Harrison,P.O. Box
+75643,Gary,Panola,Standard
+75644,Gilmer,Upshur,Standard
+75645,Gilmer,Upshur,Standard
+75647,Gladewater,Gregg,Standard
+75650,Hallsville,Harrison,Standard
+75651,Harleton,Harrison,Standard
+75652,Henderson,Rusk,Standard
+75653,Henderson,Rusk,P.O. Box
+75654,Henderson,Rusk,Standard
+75656,Hughes Springs,Cass,Standard
+75657,Jefferson,Marion,Standard
+75658,Joinerville,Rusk,P.O. Box
+75659,Jonesville,Harrison,P.O. Box
+75660,Judson,Gregg,P.O. Box
+75661,Karnack,Harrison,Standard
+75662,Kilgore,Gregg,Standard
+75663,Kilgore,Gregg,P.O. Box
+75666,Laird Hill,Rusk,P.O. Box
+75667,Laneville,Rusk,Standard
+75668,Lone Star,Morris,Standard
+75669,Long Branch,Panola,Standard
+75670,Marshall,Harrison,Standard
+75671,Marshall,Harrison,P.O. Box
+75672,Marshall,Harrison,Standard
+75680,Minden,Rusk,P.O. Box
+75681,Mount Enterprise,Rusk,Standard
+75682,New London,Rusk,P.O. Box
+75683,Ore City,Upshur,Standard
+75684,Overton,Rusk,Standard
+75685,Panola,Panola,P.O. Box
+75686,Pittsburg,Camp,Standard
+75687,Price,Rusk,P.O. Box
+75688,Scottsville,Harrison,P.O. Box
+75689,Selman City,Rusk,P.O. Box
+75691,Tatum,Rusk,Standard
+75692,Waskom,Harrison,Standard
+75693,White Oak,Gregg,Standard
+75694,Woodlawn,Harrison,P.O. Box
+75701,Tyler,Smith,Standard
+75702,Tyler,Smith,Standard
+75703,Tyler,Smith,Standard
+75704,Tyler,Smith,Standard
+75705,Tyler,Smith,Standard
+75706,Tyler,Smith,Standard
+75707,Tyler,Smith,Standard
+75708,Tyler,Smith,Standard
+75709,Tyler,Smith,Standard
+75710,Tyler,Smith,P.O. Box
+75711,Tyler,Smith,P.O. Box
+75712,Tyler,Smith,P.O. Box
+75713,Tyler,Smith,P.O. Box
+75750,Arp,Smith,Standard
+75751,Athens,Henderson,Standard
+75752,Athens,Henderson,Standard
+75754,Ben Wheeler,Van Zandt,Standard
+75755,Big Sandy,Upshur,Standard
+75756,Brownsboro,Henderson,Standard
+75757,Bullard,Smith,Standard
+75758,Chandler,Henderson,Standard
+75759,Cuney,Cherokee,P.O. Box
+75760,Cushing,Nacogdoches,Standard
+75762,Flint,Smith,Standard
+75763,Frankston,Anderson,Standard
+75764,Gallatin,Cherokee,P.O. Box
+75765,Hawkins,Wood,Standard
+75766,Jacksonville,Cherokee,Standard
+75770,Larue,Henderson,Standard
+75771,Lindale,Smith,Standard
+75772,Maydelle,Cherokee,P.O. Box
+75773,Mineola,Wood,Standard
+75778,Murchison,Henderson,Standard
+75779,Neches,Anderson,P.O. Box
+75780,New Summerfield,Cherokee,P.O. Box
+75782,Poynor,Henderson,P.O. Box
+75783,Quitman,Wood,Standard
+75784,Reklaw,Cherokee,Standard
+75785,Rusk,Cherokee,Standard
+75788,Sacul,Nacogdoches,P.O. Box
+75789,Troup,Smith,Standard
+75790,Van,Van Zandt,Standard
+75791,Whitehouse,Smith,Standard
+75792,Winona,Smith,Standard
+75797,Big Sandy,Upshur,Unique
+75798,Tyler,Smith,Unique
+75799,Tyler,Smith,Unique
+75801,Palestine,Anderson,Standard
+75802,Palestine,Anderson,P.O. Box
+75803,Palestine,Anderson,Standard
+75831,Buffalo,Leon,Standard
+75832,Cayuga,Anderson,P.O. Box
+75833,Centerville,Leon,Standard
+75834,Centralia,Trinity,Standard
+75835,Crockett,Houston,Standard
+75838,Donie,Freestone,Standard
+75839,Elkhart,Anderson,Standard
+75840,Fairfield,Freestone,Standard
+75844,Grapeland,Houston,Standard
+75845,Groveton,Trinity,Standard
+75846,Jewett,Leon,Standard
+75847,Kennard,Houston,Standard
+75848,Kirvin,Freestone,P.O. Box
+75849,Latexo,Houston,P.O. Box
+75850,Leona,Leon,Standard
+75851,Lovelady,Houston,Standard
+75852,Midway,Madison,Standard
+75853,Montalba,Anderson,Standard
+75855,Oakwood,Leon,Standard
+75856,Pennington,Trinity,Standard
+75858,Ratcliff,Houston,P.O. Box
+75859,Streetman,Freestone,Standard
+75860,Teague,Freestone,Standard
+75861,Tennessee Colony,Anderson,Standard
+75862,Trinity,Trinity,Standard
+75865,Woodlake,Trinity,P.O. Box
+75880,Tennessee Colony,Anderson,Unique
+75882,Palestine,Anderson,Unique
+75884,Tennessee Colony,Anderson,Unique
+75886,Tennessee Colony,Anderson,Unique
+75901,Lufkin,Angelina,Standard
+75902,Lufkin,Angelina,P.O. Box
+75903,Lufkin,Angelina,P.O. Box
+75904,Lufkin,Angelina,Standard
+75915,Lufkin,Angelina,P.O. Box
+75925,Alto,Cherokee,Standard
+75926,Apple Springs,Trinity,Standard
+75928,Bon Wier,Newton,Standard
+75929,Broaddus,San Augustine,Standard
+75930,Bronson,Sabine,Standard
+75931,Brookeland,Jasper,Standard
+75932,Burkeville,Newton,Standard
+75933,Call,Newton,Standard
+75934,Camden,Polk,P.O. Box
+75935,Center,Shelby,Standard
+75936,Chester,Tyler,Standard
+75937,Chireno,Nacogdoches,Standard
+75938,Colmesneil,Tyler,Standard
+75939,Corrigan,Polk,Standard
+75941,Diboll,Angelina,Standard
+75942,Doucette,Tyler,P.O. Box
+75943,Douglass,Nacogdoches,Standard
+75944,Etoile,Nacogdoches,Standard
+75946,Garrison,Nacogdoches,Standard
+75948,Hemphill,Sabine,Standard
+75949,Huntington,Angelina,Standard
+75951,Jasper,Jasper,Standard
+75954,Joaquin,Shelby,Standard
+75956,Kirbyville,Jasper,Standard
+75958,Martinsville,Nacogdoches,P.O. Box
+75959,Milam,Sabine,Standard
+75960,Moscow,Polk,Standard
+75961,Nacogdoches,Nacogdoches,Standard
+75962,Nacogdoches,Nacogdoches,Unique
+75963,Nacogdoches,Nacogdoches,P.O. Box
+75964,Nacogdoches,Nacogdoches,Standard
+75965,Nacogdoches,Nacogdoches,Standard
+75966,Newton,Newton,Standard
+75968,Pineland,Sabine,Standard
+75969,Pollok,Angelina,Standard
+75972,San Augustine,San Augustine,Standard
+75973,Shelbyville,Shelby,Standard
+75974,Tenaha,Shelby,Standard
+75975,Timpson,Shelby,Standard
+75976,Wells,Cherokee,P.O. Box
+75977,Wiergate,Newton,Standard
+75978,Woden,Nacogdoches,P.O. Box
+75979,Woodville,Tyler,Standard
+75980,Zavalla,Angelina,Standard
+75990,Woodville,Tyler,Unique
+76001,Arlington,Tarrant,Standard
+76002,Arlington,Tarrant,Standard
+76003,Arlington,Tarrant,P.O. Box
+76004,Arlington,Tarrant,P.O. Box
+76005,Arlington,Tarrant,Standard
+76006,Arlington,Tarrant,Standard
+76007,Arlington,Tarrant,P.O. Box
+76008,Aledo,Parker,Standard
+76009,Alvarado,Johnson,Standard
+76010,Arlington,Tarrant,Standard
+76011,Arlington,Tarrant,Standard
+76012,Arlington,Tarrant,Standard
+76013,Arlington,Tarrant,Standard
+76014,Arlington,Tarrant,Standard
+76015,Arlington,Tarrant,Standard
+76016,Arlington,Tarrant,Standard
+76017,Arlington,Tarrant,Standard
+76018,Arlington,Tarrant,Standard
+76019,Arlington,Tarrant,Unique
+76020,Azle,Tarrant,Standard
+76021,Bedford,Tarrant,Standard
+76022,Bedford,Tarrant,Standard
+76023,Boyd,Wise,Standard
+76028,Burleson,Johnson,Standard
+76031,Cleburne,Johnson,Standard
+76033,Cleburne,Johnson,Standard
+76034,Colleyville,Tarrant,Standard
+76035,Cresson,Hood,Standard
+76036,Crowley,Tarrant,Standard
+76039,Euless,Tarrant,Standard
+76040,Euless,Tarrant,Standard
+76041,Forreston,Ellis,Standard
+76043,Glen Rose,Somervell,Standard
+76044,Godley,Johnson,Standard
+76048,Granbury,Hood,Standard
+76049,Granbury,Hood,Standard
+76050,Grandview,Johnson,Standard
+76051,Grapevine,Tarrant,Standard
+76052,Haslet,Tarrant,Standard
+76053,Hurst,Tarrant,Standard
+76054,Hurst,Tarrant,Standard
+76055,Itasca,Hill,Standard
+76058,Joshua,Johnson,Standard
+76059,Keene,Johnson,Standard
+76060,Kennedale,Tarrant,Standard
+76061,Lillian,Johnson,P.O. Box
+76063,Mansfield,Tarrant,Standard
+76064,Maypearl,Ellis,Standard
+76065,Midlothian,Ellis,Standard
+76066,Millsap,Parker,Standard
+76067,Mineral Wells,Palo Pinto,Standard
+76068,Mineral Wells,Palo Pinto,P.O. Box
+76070,Nemo,Somervell,Standard
+76071,Newark,Wise,Standard
+76073,Paradise,Wise,Standard
+76077,Rainbow,Somervell,Standard
+76078,Rhome,Wise,Standard
+76082,Springtown,Parker,Standard
+76084,Venus,Johnson,Standard
+76085,Weatherford,Parker,Standard
+76086,Weatherford,Parker,Standard
+76087,Weatherford,Parker,Standard
+76088,Weatherford,Parker,Standard
+76092,Southlake,Tarrant,Standard
+76093,Rio Vista,Johnson,Standard
+76094,Arlington,Tarrant,P.O. Box
+76095,Bedford,Tarrant,P.O. Box
+76096,Arlington,Tarrant,P.O. Box
+76097,Burleson,Johnson,P.O. Box
+76098,Azle,Parker,P.O. Box
+76099,Grapevine,Tarrant,P.O. Box
+76101,Fort Worth,Tarrant,P.O. Box
+76102,Fort Worth,Tarrant,Standard
+76103,Fort Worth,Tarrant,Standard
+76104,Fort Worth,Tarrant,Standard
+76105,Fort Worth,Tarrant,Standard
+76106,Fort Worth,Tarrant,Standard
+76107,Fort Worth,Tarrant,Standard
+76108,Fort Worth,Tarrant,Standard
+76109,Fort Worth,Tarrant,Standard
+76110,Fort Worth,Tarrant,Standard
+76111,Fort Worth,Tarrant,Standard
+76112,Fort Worth,Tarrant,Standard
+76113,Fort Worth,Tarrant,P.O. Box
+76114,Fort Worth,Tarrant,Standard
+76115,Fort Worth,Tarrant,Standard
+76116,Fort Worth,Tarrant,Standard
+76117,Haltom City,Tarrant,Standard
+76118,Fort Worth,Tarrant,Standard
+76119,Fort Worth,Tarrant,Standard
+76120,Fort Worth,Tarrant,Standard
+76121,Fort Worth,Tarrant,P.O. Box
+76122,Fort Worth,Tarrant,Unique
+76123,Fort Worth,Tarrant,Standard
+76124,Fort Worth,Tarrant,P.O. Box
+76126,Fort Worth,Tarrant,Standard
+76127,Naval Air Station JRB,Tarrant,Standard
+76129,Fort Worth,Tarrant,Unique
+76130,Fort Worth,Tarrant,Unique
+76131,Fort Worth,Tarrant,Standard
+76132,Fort Worth,Tarrant,Standard
+76133,Fort Worth,Tarrant,Standard
+76134,Fort Worth,Tarrant,Standard
+76135,Fort Worth,Tarrant,Standard
+76136,Fort Worth,Tarrant,P.O. Box
+76137,Fort Worth,Tarrant,Standard
+76140,Fort Worth,Tarrant,Standard
+76147,Fort Worth,Tarrant,P.O. Box
+76148,Fort Worth,Tarrant,Standard
+76150,Fort Worth,Tarrant,Unique
+76155,Fort Worth,Tarrant,Standard
+76161,Fort Worth,Tarrant,P.O. Box
+76162,Fort Worth,Tarrant,P.O. Box
+76163,Fort Worth,Tarrant,P.O. Box
+76164,Fort Worth,Tarrant,Standard
+76166,Fort Worth,Tarrant,Unique
+76177,Fort Worth,Tarrant,Standard
+76179,Fort Worth,Tarrant,Standard
+76180,North Richland Hills,Tarrant,Standard
+76181,Fort Worth,Tarrant,P.O. Box
+76182,North Richland Hills,Tarrant,Standard
+76185,Fort Worth,Tarrant,P.O. Box
+76190,Fort Worth,Tarrant,Unique
+76191,Fort Worth,Tarrant,Unique
+76192,Fort Worth,Tarrant,Unique
+76193,Fort Worth,Tarrant,Unique
+76195,Fort Worth,Tarrant,Unique
+76196,Fort Worth,Tarrant,Unique
+76197,Fort Worth,Tarrant,Unique
+76198,Fort Worth,Tarrant,Unique
+76199,Fort Worth,Tarrant,Unique
+76201,Denton,Denton,Standard
+76202,Denton,Denton,P.O. Box
+76203,Denton,Denton,P.O. Box
+76204,Denton,Denton,P.O. Box
+76205,Denton,Denton,Standard
+76206,Denton,Denton,P.O. Box
+76207,Denton,Denton,Standard
+76208,Denton,Denton,Standard
+76209,Denton,Denton,Standard
+76210,Denton,Denton,Standard
+76225,Alvord,Wise,Standard
+76226,Argyle,Denton,Standard
+76227,Aubrey,Denton,Standard
+76228,Bellevue,Clay,Standard
+76230,Bowie,Montague,Standard
+76233,Collinsville,Grayson,Standard
+76234,Decatur,Wise,Standard
+76238,Era,Cooke,Standard
+76239,Forestburg,Montague,Standard
+76240,Gainesville,Cooke,Standard
+76241,Gainesville,Cooke,P.O. Box
+76244,Keller,Tarrant,Standard
+76245,Gordonville,Grayson,Standard
+76246,Greenwood,Wise,P.O. Box
+76247,Justin,Denton,Standard
+76248,Keller,Tarrant,Standard
+76249,Krum,Denton,Standard
+76250,Lindsay,Cooke,Standard
+76251,Montague,Montague,Standard
+76252,Muenster,Cooke,Standard
+76253,Myra,Cooke,P.O. Box
+76255,Nocona,Montague,Standard
+76258,Pilot Point,Denton,Standard
+76259,Ponder,Denton,Standard
+76261,Ringgold,Montague,Standard
+76262,Roanoke,Denton,Standard
+76263,Rosston,Cooke,Standard
+76264,Sadler,Grayson,Standard
+76265,Saint Jo,Montague,Standard
+76266,Sanger,Denton,Standard
+76267,Slidell,Wise,P.O. Box
+76268,Southmayd,Grayson,P.O. Box
+76270,Sunset,Montague,Standard
+76271,Tioga,Grayson,Standard
+76272,Valley View,Cooke,Standard
+76273,Whitesboro,Grayson,Standard
+76301,Wichita Falls,Wichita,Standard
+76302,Wichita Falls,Wichita,Standard
+76305,Wichita Falls,Wichita,Standard
+76306,Wichita Falls,Wichita,Standard
+76307,Wichita Falls,Wichita,P.O. Box
+76308,Wichita Falls,Wichita,Standard
+76309,Wichita Falls,Wichita,Standard
+76310,Wichita Falls,Wichita,Standard
+76311,Sheppard AFB,Wichita,Standard
+76351,Archer City,Archer,P.O. Box
+76352,Bluegrove,Clay,P.O. Box
+76354,Burkburnett,Wichita,Standard
+76357,Byers,Clay,Standard
+76360,Electra,Wichita,Standard
+76363,Goree,Knox,Standard
+76364,Harrold,Wilbarger,Standard
+76365,Henrietta,Clay,Standard
+76366,Holliday,Archer,Standard
+76367,Iowa Park,Wichita,Standard
+76369,Kamay,Wichita,P.O. Box
+76370,Megargel,Archer,P.O. Box
+76371,Munday,Knox,Standard
+76372,Newcastle,Young,Standard
+76373,Oklaunion,Wilbarger,Standard
+76374,Olney,Young,Standard
+76377,Petrolia,Clay,Standard
+76379,Scotland,Archer,Standard
+76380,Seymour,Baylor,Standard
+76384,Vernon,Wilbarger,Standard
+76385,Vernon,Wilbarger,P.O. Box
+76388,Weinert,Haskell,Standard
+76389,Windthorst,Archer,Standard
+76401,Stephenville,Erath,Standard
+76402,Stephenville,Erath,Unique
+76424,Breckenridge,Stephens,Standard
+76426,Bridgeport,Wise,Standard
+76427,Bryson,Jack,Standard
+76429,Caddo,Stephens,Standard
+76430,Albany,Shackelford,Standard
+76431,Chico,Wise,Standard
+76432,Blanket,Brown,Standard
+76433,Bluff Dale,Erath,Standard
+76435,Carbon,Eastland,Standard
+76436,Carlton,Hamilton,Standard
+76437,Cisco,Eastland,Standard
+76439,Dennis,Parker,P.O. Box
+76442,Comanche,Comanche,Standard
+76443,Cross Plains,Callahan,Standard
+76444,De Leon,Comanche,Standard
+76445,Desdemona,Eastland,Standard
+76446,Dublin,Erath,Standard
+76448,Eastland,Eastland,Standard
+76449,Graford,Palo Pinto,Standard
+76450,Graham,Young,Standard
+76452,Energy,Comanche,P.O. Box
+76453,Gordon,Palo Pinto,Standard
+76454,Gorman,Eastland,Standard
+76455,Gustine,Comanche,Standard
+76457,Hico,Hamilton,Standard
+76458,Jacksboro,Jack,Standard
+76459,Jermyn,Jack,Standard
+76460,Loving,Young,Standard
+76461,Lingleville,Erath,P.O. Box
+76462,Lipan,Hood,Standard
+76463,Mingus,Palo Pinto,Standard
+76464,Moran,Shackelford,Standard
+76465,Morgan Mill,Erath,P.O. Box
+76466,Olden,Eastland,P.O. Box
+76467,Paluxy,Hood,P.O. Box
+76468,Proctor,Comanche,P.O. Box
+76469,Putnam,Callahan,P.O. Box
+76470,Ranger,Eastland,Standard
+76471,Rising Star,Eastland,Standard
+76472,Santo,Palo Pinto,Standard
+76474,Sidney,Comanche,Standard
+76475,Strawn,Palo Pinto,Standard
+76476,Tolar,Hood,Standard
+76481,South Bend,Young,Standard
+76483,Throckmorton,Throckmorton,Standard
+76484,Palo Pinto,Palo Pinto,Standard
+76485,Peaster,Parker,P.O. Box
+76486,Perrin,Jack,Standard
+76487,Poolville,Parker,Standard
+76490,Whitt,Parker,Standard
+76491,Woodson,Throckmorton,Standard
+76501,Temple,Bell,Standard
+76502,Temple,Bell,Standard
+76503,Temple,Bell,P.O. Box
+76504,Temple,Bell,Standard
+76508,Temple,Bell,Unique
+76511,Bartlett,Bell,Standard
+76513,Belton,Bell,Standard
+76518,Buckholts,Milam,Standard
+76519,Burlington,Milam,Standard
+76520,Cameron,Milam,Standard
+76522,Copperas Cove,Coryell,Standard
+76523,Davilla,Milam,P.O. Box
+76524,Eddy,Mclennan,Standard
+76525,Evant,Coryell,Standard
+76526,Flat,Coryell,P.O. Box
+76527,Florence,Williamson,Standard
+76528,Gatesville,Coryell,Standard
+76530,Granger,Williamson,Standard
+76531,Hamilton,Hamilton,Standard
+76533,Heidenheimer,Bell,P.O. Box
+76534,Holland,Bell,Standard
+76537,Jarrell,Williamson,Standard
+76538,Jonesboro,Coryell,Standard
+76539,Kempner,Lampasas,Standard
+76540,Killeen,Bell,P.O. Box
+76541,Killeen,Bell,Standard
+76542,Killeen,Bell,Standard
+76543,Killeen,Bell,Standard
+76544,Fort Hood,Bell,Standard
+76547,Killeen,Bell,P.O. Box
+76548,Harker Heights,Bell,Standard
+76549,Killeen,Bell,Standard
+76550,Lampasas,Lampasas,Standard
+76554,Little River Academy,Bell,Standard
+76556,Milano,Milam,Standard
+76557,Moody,Mclennan,Standard
+76558,Mound,Coryell,P.O. Box
+76559,Nolanville,Bell,Standard
+76561,Oglesby,Coryell,Standard
+76564,Pendleton,Bell,P.O. Box
+76565,Pottsville,Hamilton,Standard
+76566,Purmela,Coryell,Standard
+76567,Rockdale,Milam,Standard
+76569,Rogers,Bell,Standard
+76570,Rosebud,Falls,Standard
+76571,Salado,Bell,Standard
+76573,Schwertner,Williamson,P.O. Box
+76574,Taylor,Williamson,Standard
+76577,Thorndale,Milam,Standard
+76578,Thrall,Williamson,Standard
+76579,Troy,Bell,Standard
+76596,Gatesville,Coryell,Unique
+76597,Gatesville,Coryell,Unique
+76598,Gatesville,Coryell,Unique
+76599,Gatesville,Coryell,Unique
+76621,Abbott,Hill,Standard
+76622,Aquilla,Hill,Standard
+76623,Avalon,Ellis,P.O. Box
+76624,Axtell,Mclennan,Standard
+76626,Blooming Grove,Navarro,Standard
+76627,Blum,Hill,Standard
+76628,Brandon,Hill,P.O. Box
+76629,Bremond,Robertson,Standard
+76630,Bruceville,Mclennan,Standard
+76631,Bynum,Hill,Standard
+76632,Chilton,Falls,Standard
+76633,China Spring,Mclennan,Standard
+76634,Clifton,Bosque,Standard
+76635,Coolidge,Limestone,Standard
+76636,Covington,Hill,Standard
+76637,Cranfills Gap,Bosque,Standard
+76638,Crawford,Mclennan,Standard
+76639,Dawson,Navarro,Standard
+76640,Elm Mott,Mclennan,Standard
+76641,Frost,Navarro,Standard
+76642,Groesbeck,Limestone,Standard
+76643,Hewitt,Mclennan,Standard
+76644,Laguna Park,Bosque,P.O. Box
+76645,Hillsboro,Hill,Standard
+76648,Hubbard,Hill,Standard
+76649,Iredell,Bosque,Standard
+76650,Irene,Hill,P.O. Box
+76651,Italy,Ellis,Standard
+76652,Kopperl,Bosque,Standard
+76653,Kosse,Limestone,Standard
+76654,Leroy,Mclennan,P.O. Box
+76655,Lorena,Mclennan,Standard
+76656,Lott,Falls,Standard
+76657,Mc Gregor,Mclennan,Standard
+76660,Malone,Hill,Standard
+76661,Marlin,Falls,Standard
+76664,Mart,Mclennan,Standard
+76665,Meridian,Bosque,Standard
+76666,Mertens,Hill,Standard
+76667,Mexia,Limestone,Standard
+76670,Milford,Ellis,Standard
+76671,Morgan,Bosque,Standard
+76673,Mount Calm,Hill,Standard
+76676,Penelope,Hill,Standard
+76678,Prairie Hill,Limestone,Standard
+76679,Purdon,Navarro,Standard
+76680,Reagan,Falls,Standard
+76681,Richland,Navarro,Standard
+76682,Riesel,Mclennan,Standard
+76684,Ross,Mclennan,P.O. Box
+76685,Satin,Falls,Standard
+76686,Tehuacana,Limestone,P.O. Box
+76687,Thornton,Limestone,Standard
+76689,Valley Mills,Bosque,Standard
+76690,Walnut Springs,Bosque,Standard
+76691,West,Mclennan,Standard
+76692,Whitney,Hill,Standard
+76693,Wortham,Freestone,Standard
+76701,Waco,Mclennan,Standard
+76702,Waco,Mclennan,P.O. Box
+76703,Waco,Mclennan,P.O. Box
+76704,Waco,Mclennan,Standard
+76705,Waco,Mclennan,Standard
+76706,Waco,Mclennan,Standard
+76707,Waco,Mclennan,Standard
+76708,Waco,Mclennan,Standard
+76710,Waco,Mclennan,Standard
+76711,Waco,Mclennan,Standard
+76712,Woodway,Mclennan,Standard
+76714,Waco,Mclennan,P.O. Box
+76715,Waco,Mclennan,P.O. Box
+76716,Waco,Mclennan,P.O. Box
+76797,Waco,Mclennan,Unique
+76798,Waco,Mclennan,Standard
+76799,Waco,Mclennan,Unique
+76801,Brownwood,Brown,Standard
+76802,Early,Brown,Standard
+76803,Early,Brown,P.O. Box
+76804,Brownwood,Brown,P.O. Box
+76820,Art,Mason,Standard
+76821,Ballinger,Runnels,Standard
+76823,Bangs,Brown,Standard
+76824,Bend,San Saba,P.O. Box
+76825,Brady,Mcculloch,Standard
+76827,Brookesmith,Brown,Standard
+76828,Burkett,Coleman,Standard
+76831,Castell,Llano,Standard
+76832,Cherokee,San Saba,Standard
+76834,Coleman,Coleman,Standard
+76836,Doole,Mcculloch,Standard
+76837,Eden,Concho,Standard
+76841,Fort Mc Kavett,Menard,Standard
+76842,Fredonia,Mason,Standard
+76844,Goldthwaite,Mills,Standard
+76845,Gouldbusk,Coleman,Standard
+76848,Hext,Menard,Standard
+76849,Junction,Kimble,Standard
+76852,Lohn,Mcculloch,Standard
+76853,Lometa,Lampasas,Standard
+76854,London,Kimble,Standard
+76855,Lowake,Concho,P.O. Box
+76856,Mason,Mason,Standard
+76857,May,Brown,Standard
+76858,Melvin,Mcculloch,Standard
+76859,Menard,Menard,Standard
+76861,Miles,Runnels,Standard
+76862,Millersview,Concho,Standard
+76864,Mullin,Mills,Standard
+76865,Norton,Runnels,Standard
+76866,Paint Rock,Concho,Standard
+76869,Pontotoc,Mason,Standard
+76870,Priddy,Mills,Standard
+76871,Richland Springs,San Saba,Standard
+76872,Rochelle,Mcculloch,Standard
+76873,Rockwood,Coleman,Standard
+76874,Roosevelt,Kimble,Standard
+76875,Rowena,Runnels,Standard
+76877,San Saba,San Saba,Standard
+76878,Santa Anna,Coleman,Standard
+76880,Star,Mills,P.O. Box
+76882,Talpa,Coleman,Standard
+76883,Telegraph,Edwards,Standard
+76884,Valera,Coleman,Standard
+76885,Valley Spring,Llano,Standard
+76886,Veribest,Tom Green,P.O. Box
+76887,Voca,Mcculloch,Standard
+76888,Voss,Coleman,Standard
+76890,Zephyr,Brown,Standard
+76901,San Angelo,Tom Green,Standard
+76902,San Angelo,Tom Green,P.O. Box
+76903,San Angelo,Tom Green,Standard
+76904,San Angelo,Tom Green,Standard
+76905,San Angelo,Tom Green,Standard
+76906,San Angelo,Tom Green,P.O. Box
+76908,Goodfellow AFB,Tom Green,Standard
+76909,San Angelo,Tom Green,Unique
+76930,Barnhart,Irion,P.O. Box
+76932,Big Lake,Reagan,Standard
+76933,Bronte,Coke,Standard
+76934,Carlsbad,Tom Green,Standard
+76935,Christoval,Tom Green,Standard
+76936,Eldorado,Schleicher,Standard
+76937,Eola,Concho,Standard
+76939,Knickerbocker,Tom Green,P.O. Box
+76940,Mereta,Tom Green,Standard
+76941,Mertzon,Irion,Standard
+76943,Ozona,Crockett,Standard
+76945,Robert Lee,Coke,Standard
+76949,Silver,Coke,Standard
+76950,Sonora,Sutton,Standard
+76951,Sterling City,Sterling,Standard
+76953,Tennyson,Coke,P.O. Box
+76955,Vancourt,Tom Green,Standard
+76957,Wall,Tom Green,Standard
+76958,Water Valley,Tom Green,P.O. Box
+77001,Houston,Harris,P.O. Box
+77002,Houston,Harris,Standard
+77003,Houston,Harris,Standard
+77004,Houston,Harris,Standard
+77005,Houston,Harris,Standard
+77006,Houston,Harris,Standard
+77007,Houston,Harris,Standard
+77008,Houston,Harris,Standard
+77009,Houston,Harris,Standard
+77010,Houston,Harris,Standard
+77011,Houston,Harris,Standard
+77012,Houston,Harris,Standard
+77013,Houston,Harris,Standard
+77014,Houston,Harris,Standard
+77015,Houston,Harris,Standard
+77016,Houston,Harris,Standard
+77017,Houston,Harris,Standard
+77018,Houston,Harris,Standard
+77019,Houston,Harris,Standard
+77020,Houston,Harris,Standard
+77021,Houston,Harris,Standard
+77022,Houston,Harris,Standard
+77023,Houston,Harris,Standard
+77024,Houston,Harris,Standard
+77025,Houston,Harris,Standard
+77026,Houston,Harris,Standard
+77027,Houston,Harris,Standard
+77028,Houston,Harris,Standard
+77029,Houston,Harris,Standard
+77030,Houston,Harris,Standard
+77031,Houston,Harris,Standard
+77032,Houston,Harris,Standard
+77033,Houston,Harris,Standard
+77034,Houston,Harris,Standard
+77035,Houston,Harris,Standard
+77036,Houston,Harris,Standard
+77037,Houston,Harris,Standard
+77038,Houston,Harris,Standard
+77039,Houston,Harris,Standard
+77040,Houston,Harris,Standard
+77041,Houston,Harris,Standard
+77042,Houston,Harris,Standard
+77043,Houston,Harris,Standard
+77044,Houston,Harris,Standard
+77045,Houston,Harris,Standard
+77046,Houston,Harris,Standard
+77047,Houston,Harris,Standard
+77048,Houston,Harris,Standard
+77049,Houston,Harris,Standard
+77050,Houston,Harris,Standard
+77051,Houston,Harris,Standard
+77052,Houston,Harris,P.O. Box
+77053,Houston,Fort Bend,Standard
+77054,Houston,Harris,Standard
+77055,Houston,Harris,Standard
+77056,Houston,Harris,Standard
+77057,Houston,Harris,Standard
+77058,Houston,Harris,Standard
+77059,Houston,Harris,Standard
+77060,Houston,Harris,Standard
+77061,Houston,Harris,Standard
+77062,Houston,Harris,Standard
+77063,Houston,Harris,Standard
+77064,Houston,Harris,Standard
+77065,Houston,Harris,Standard
+77066,Houston,Harris,Standard
+77067,Houston,Harris,Standard
+77068,Houston,Harris,Standard
+77069,Houston,Harris,Standard
+77070,Houston,Harris,Standard
+77071,Houston,Harris,Standard
+77072,Houston,Harris,Standard
+77073,Houston,Harris,Standard
+77074,Houston,Harris,Standard
+77075,Houston,Harris,Standard
+77076,Houston,Harris,Standard
+77077,Houston,Harris,Standard
+77078,Houston,Harris,Standard
+77079,Houston,Harris,Standard
+77080,Houston,Harris,Standard
+77081,Houston,Harris,Standard
+77082,Houston,Harris,Standard
+77083,Houston,Harris,Standard
+77084,Houston,Harris,Standard
+77085,Houston,Harris,Standard
+77086,Houston,Harris,Standard
+77087,Houston,Harris,Standard
+77088,Houston,Harris,Standard
+77089,Houston,Harris,Standard
+77090,Houston,Harris,Standard
+77091,Houston,Harris,Standard
+77092,Houston,Harris,Standard
+77093,Houston,Harris,Standard
+77094,Houston,Harris,Standard
+77095,Houston,Harris,Standard
+77096,Houston,Harris,Standard
+77098,Houston,Harris,Standard
+77099,Houston,Harris,Standard
+77201,Houston,Harris,Standard
+77202,Houston,Harris,P.O. Box
+77203,Houston,Harris,P.O. Box
+77204,Houston,Harris,Unique
+77205,Houston,Harris,P.O. Box
+77206,Houston,Harris,P.O. Box
+77207,Houston,Harris,P.O. Box
+77208,Houston,Harris,P.O. Box
+77209,Houston,Harris,Unique
+77210,Houston,Harris,P.O. Box
+77212,Houston,Harris,Unique
+77213,Houston,Harris,P.O. Box
+77215,Houston,Harris,P.O. Box
+77216,Houston,Harris,Unique
+77217,Houston,Harris,P.O. Box
+77218,Houston,Harris,P.O. Box
+77219,Houston,Harris,P.O. Box
+77220,Houston,Harris,P.O. Box
+77221,Houston,Harris,P.O. Box
+77222,Houston,Harris,P.O. Box
+77223,Houston,Harris,P.O. Box
+77224,Houston,Harris,P.O. Box
+77225,Houston,Harris,P.O. Box
+77226,Houston,Harris,P.O. Box
+77227,Houston,Harris,P.O. Box
+77228,Houston,Harris,P.O. Box
+77229,Houston,Harris,P.O. Box
+77230,Houston,Harris,P.O. Box
+77231,Houston,Harris,P.O. Box
+77233,Houston,Harris,P.O. Box
+77234,Houston,Harris,P.O. Box
+77235,Houston,Harris,P.O. Box
+77236,Houston,Harris,P.O. Box
+77237,Houston,Harris,P.O. Box
+77238,Houston,Harris,P.O. Box
+77240,Houston,Harris,P.O. Box
+77241,Houston,Harris,P.O. Box
+77242,Houston,Harris,P.O. Box
+77243,Houston,Harris,P.O. Box
+77244,Houston,Harris,P.O. Box
+77245,Houston,Harris,P.O. Box
+77248,Houston,Harris,P.O. Box
+77249,Houston,Harris,P.O. Box
+77251,Houston,Harris,P.O. Box
+77252,Houston,Harris,P.O. Box
+77253,Houston,Harris,P.O. Box
+77254,Houston,Harris,P.O. Box
+77255,Houston,Harris,P.O. Box
+77256,Houston,Harris,P.O. Box
+77257,Houston,Harris,P.O. Box
+77258,Houston,Harris,P.O. Box
+77259,Houston,Harris,P.O. Box
+77261,Houston,Harris,P.O. Box
+77262,Houston,Harris,P.O. Box
+77263,Houston,Harris,P.O. Box
+77265,Houston,Harris,P.O. Box
+77266,Houston,Harris,P.O. Box
+77267,Houston,Harris,P.O. Box
+77268,Houston,Harris,P.O. Box
+77269,Houston,Harris,P.O. Box
+77270,Houston,Harris,P.O. Box
+77271,Houston,Harris,P.O. Box
+77272,Houston,Harris,P.O. Box
+77273,Houston,Harris,P.O. Box
+77274,Houston,Harris,P.O. Box
+77275,Houston,Harris,P.O. Box
+77277,Houston,Harris,P.O. Box
+77279,Houston,Harris,P.O. Box
+77280,Houston,Harris,P.O. Box
+77282,Houston,Harris,P.O. Box
+77284,Houston,Harris,P.O. Box
+77287,Houston,Harris,P.O. Box
+77288,Houston,Harris,P.O. Box
+77289,Houston,Harris,P.O. Box
+77290,Houston,Harris,P.O. Box
+77291,Houston,Harris,P.O. Box
+77292,Houston,Harris,P.O. Box
+77293,Houston,Harris,P.O. Box
+77297,Houston,Harris,Unique
+77299,Houston,Harris,Unique
+77301,Conroe,Montgomery,Standard
+77302,Conroe,Montgomery,Standard
+77303,Conroe,Montgomery,Standard
+77304,Conroe,Montgomery,Standard
+77305,Conroe,Montgomery,P.O. Box
+77306,Conroe,Montgomery,Standard
+77315,North Houston,Harris,Standard
+77316,Montgomery,Montgomery,Standard
+77318,Willis,Montgomery,Standard
+77320,Huntsville,Walker,Standard
+77325,Kingwood,Harris,P.O. Box
+77326,Ace,Polk,P.O. Box
+77327,Cleveland,Liberty,Standard
+77328,Cleveland,Liberty,Standard
+77331,Coldspring,San Jacinto,Standard
+77332,Dallardsville,Polk,P.O. Box
+77333,Dobbin,Montgomery,P.O. Box
+77334,Dodge,Walker,P.O. Box
+77335,Goodrich,Polk,Standard
+77336,Huffman,Harris,Standard
+77337,Hufsmith,Harris,P.O. Box
+77338,Humble,Harris,Standard
+77339,Kingwood,Harris,Standard
+77340,Huntsville,Walker,Standard
+77341,Huntsville,Walker,Unique
+77342,Huntsville,Walker,P.O. Box
+77343,Huntsville,Walker,Unique
+77344,Huntsville,Walker,Unique
+77345,Kingwood,Harris,Standard
+77346,Humble,Harris,Standard
+77347,Humble,Harris,P.O. Box
+77348,Huntsville,Walker,Unique
+77349,Huntsville,Walker,Unique
+77350,Leggett,Polk,P.O. Box
+77351,Livingston,Polk,Standard
+77353,Magnolia,Montgomery,P.O. Box
+77354,Magnolia,Montgomery,Standard
+77355,Magnolia,Montgomery,Standard
+77356,Montgomery,Montgomery,Standard
+77357,New Caney,Montgomery,Standard
+77358,New Waverly,Walker,Standard
+77359,Oakhurst,San Jacinto,Standard
+77360,Onalaska,Polk,Standard
+77362,Pinehurst,Montgomery,Standard
+77363,Plantersville,Grimes,Standard
+77364,Pointblank,San Jacinto,Standard
+77365,Porter,Montgomery,Standard
+77367,Riverside,Walker,P.O. Box
+77368,Romayor,Liberty,P.O. Box
+77369,Rye,Liberty,P.O. Box
+77371,Shepherd,San Jacinto,Standard
+77372,Splendora,Montgomery,Standard
+77373,Spring,Harris,Standard
+77374,Thicket,Hardin,P.O. Box
+77375,Tomball,Harris,Standard
+77376,Votaw,Hardin,P.O. Box
+77377,Tomball,Harris,Standard
+77378,Willis,Montgomery,Standard
+77379,Spring,Harris,Standard
+77380,Spring,Montgomery,Standard
+77381,Spring,Montgomery,Standard
+77382,Spring,Montgomery,Standard
+77383,Spring,Harris,P.O. Box
+77384,Conroe,Montgomery,Standard
+77385,Conroe,Montgomery,Standard
+77386,Spring,Montgomery,Standard
+77387,Spring,Montgomery,P.O. Box
+77388,Spring,Harris,Standard
+77389,Spring,Harris,Standard
+77391,Spring,Harris,P.O. Box
+77393,Spring,Montgomery,P.O. Box
+77396,Humble,Harris,Standard
+77399,Livingston,Polk,Unique
+77401,Bellaire,Harris,Standard
+77402,Bellaire,Harris,P.O. Box
+77404,Bay City,Matagorda,P.O. Box
+77406,Richmond,Fort Bend,Standard
+77407,Richmond,Fort Bend,Standard
+77410,Cypress,Harris,P.O. Box
+77411,Alief,Harris,P.O. Box
+77412,Altair,Colorado,P.O. Box
+77413,Barker,Harris,P.O. Box
+77414,Bay City,Matagorda,Standard
+77415,Cedar Lane,Matagorda,P.O. Box
+77417,Beasley,Fort Bend,Standard
+77418,Bellville,Austin,Standard
+77419,Blessing,Matagorda,P.O. Box
+77420,Boling,Wharton,Standard
+77422,Brazoria,Brazoria,Standard
+77423,Brookshire,Waller,Standard
+77426,Chappell Hill,Washington,Standard
+77428,Collegeport,Matagorda,P.O. Box
+77429,Cypress,Harris,Standard
+77430,Damon,Brazoria,Standard
+77431,Danciger,Brazoria,P.O. Box
+77432,Danevang,Wharton,P.O. Box
+77433,Cypress,Harris,Standard
+77434,Eagle Lake,Colorado,Standard
+77435,East Bernard,Wharton,Standard
+77436,Egypt,Wharton,P.O. Box
+77437,El Campo,Wharton,Standard
+77440,Elmaton,Matagorda,P.O. Box
+77441,Fulshear,Fort Bend,Standard
+77442,Garwood,Colorado,Standard
+77443,Glen Flora,Wharton,P.O. Box
+77444,Guy,Fort Bend,Standard
+77445,Hempstead,Waller,Standard
+77446,Prairie View,Waller,P.O. Box
+77447,Hockley,Harris,Standard
+77448,Hungerford,Wharton,P.O. Box
+77449,Katy,Harris,Standard
+77450,Katy,Harris,Standard
+77451,Kendleton,Fort Bend,P.O. Box
+77452,Kenney,Austin,P.O. Box
+77453,Lane City,Wharton,P.O. Box
+77454,Lissie,Wharton,P.O. Box
+77455,Louise,Wharton,Standard
+77456,Markham,Matagorda,P.O. Box
+77457,Matagorda,Matagorda,P.O. Box
+77458,Midfield,Matagorda,P.O. Box
+77459,Missouri City,Fort Bend,Standard
+77460,Nada,Colorado,P.O. Box
+77461,Needville,Fort Bend,Standard
+77463,Old Ocean,Brazoria,P.O. Box
+77464,Orchard,Fort Bend,P.O. Box
+77465,Palacios,Matagorda,Standard
+77466,Pattison,Waller,P.O. Box
+77467,Pierce,Wharton,P.O. Box
+77468,Pledger,Matagorda,Standard
+77469,Richmond,Fort Bend,Standard
+77470,Rock Island,Colorado,P.O. Box
+77471,Rosenberg,Fort Bend,Standard
+77473,San Felipe,Austin,P.O. Box
+77474,Sealy,Austin,Standard
+77475,Sheridan,Colorado,P.O. Box
+77476,Simonton,Fort Bend,P.O. Box
+77477,Stafford,Fort Bend,Standard
+77478,Sugar Land,Fort Bend,Standard
+77479,Sugar Land,Fort Bend,Standard
+77480,Sweeny,Brazoria,Standard
+77481,Thompsons,Fort Bend,P.O. Box
+77482,Van Vleck,Matagorda,Standard
+77483,Wadsworth,Matagorda,P.O. Box
+77484,Waller,Harris,Standard
+77485,Wallis,Austin,Standard
+77486,West Columbia,Brazoria,Standard
+77487,Sugar Land,Fort Bend,P.O. Box
+77488,Wharton,Wharton,Standard
+77489,Missouri City,Fort Bend,Standard
+77491,Katy,Harris,P.O. Box
+77492,Katy,Harris,P.O. Box
+77493,Katy,Harris,Standard
+77494,Katy,Fort Bend,Standard
+77496,Sugar Land,Fort Bend,P.O. Box
+77497,Stafford,Fort Bend,P.O. Box
+77498,Sugar Land,Fort Bend,Standard
+77501,Pasadena,Harris,P.O. Box
+77502,Pasadena,Harris,Standard
+77503,Pasadena,Harris,Standard
+77504,Pasadena,Harris,Standard
+77505,Pasadena,Harris,Standard
+77506,Pasadena,Harris,Standard
+77507,Pasadena,Harris,Standard
+77508,Pasadena,Harris,P.O. Box
+77510,Santa Fe,Galveston,Standard
+77511,Alvin,Brazoria,Standard
+77512,Alvin,Brazoria,P.O. Box
+77514,Anahuac,Chambers,Standard
+77515,Angleton,Brazoria,Standard
+77516,Angleton,Brazoria,P.O. Box
+77517,Santa Fe,Galveston,Standard
+77518,Bacliff,Galveston,Standard
+77519,Batson,Hardin,Standard
+77520,Baytown,Harris,Standard
+77521,Baytown,Harris,Standard
+77522,Baytown,Harris,P.O. Box
+77523,Baytown,Chambers,Standard
+77530,Channelview,Harris,Standard
+77531,Clute,Brazoria,Standard
+77532,Crosby,Harris,Standard
+77533,Daisetta,Liberty,P.O. Box
+77534,Danbury,Brazoria,Standard
+77535,Dayton,Liberty,Standard
+77536,Deer Park,Harris,Standard
+77538,Devers,Liberty,Standard
+77539,Dickinson,Galveston,Standard
+77541,Freeport,Brazoria,Standard
+77542,Freeport,Brazoria,P.O. Box
+77545,Fresno,Fort Bend,Standard
+77546,Friendswood,Galveston,Standard
+77547,Galena Park,Harris,Standard
+77549,Friendswood,Galveston,P.O. Box
+77550,Galveston,Galveston,Standard
+77551,Galveston,Galveston,Standard
+77552,Galveston,Galveston,P.O. Box
+77553,Galveston,Galveston,P.O. Box
+77554,Galveston,Galveston,Standard
+77555,Galveston,Galveston,Unique
+77560,Hankamer,Chambers,Standard
+77561,Hardin,Liberty,P.O. Box
+77562,Highlands,Harris,Standard
+77563,Hitchcock,Galveston,Standard
+77564,Hull,Liberty,Standard
+77565,Kemah,Galveston,Standard
+77566,Lake Jackson,Brazoria,Standard
+77568,La Marque,Galveston,Standard
+77571,La Porte,Harris,Standard
+77572,La Porte,Harris,P.O. Box
+77573,League City,Galveston,Standard
+77574,League City,Galveston,P.O. Box
+77575,Liberty,Liberty,Standard
+77577,Liverpool,Brazoria,Standard
+77578,Manvel,Brazoria,Standard
+77580,Mont Belvieu,Chambers,P.O. Box
+77581,Pearland,Brazoria,Standard
+77582,Raywood,Liberty,P.O. Box
+77583,Rosharon,Brazoria,Standard
+77584,Pearland,Brazoria,Standard
+77585,Saratoga,Hardin,Standard
+77586,Seabrook,Harris,Standard
+77587,South Houston,Harris,Standard
+77588,Pearland,Brazoria,P.O. Box
+77590,Texas City,Galveston,Standard
+77591,Texas City,Galveston,Standard
+77592,Texas City,Galveston,P.O. Box
+77597,Wallisville,Chambers,Standard
+77598,Webster,Harris,Standard
+77611,Bridge City,Orange,Standard
+77612,Buna,Jasper,Standard
+77613,China,Jefferson,P.O. Box
+77614,Deweyville,Newton,P.O. Box
+77615,Evadale,Jasper,P.O. Box
+77616,Fred,Tyler,Standard
+77617,Gilchrist,Galveston,P.O. Box
+77619,Groves,Jefferson,Standard
+77622,Hamshire,Jefferson,Standard
+77623,High Island,Galveston,P.O. Box
+77624,Hillister,Tyler,Standard
+77625,Kountze,Hardin,Standard
+77626,Mauriceville,Orange,P.O. Box
+77627,Nederland,Jefferson,Standard
+77629,Nome,Jefferson,P.O. Box
+77630,Orange,Orange,Standard
+77631,Orange,Orange,P.O. Box
+77632,Orange,Orange,Standard
+77639,Orangefield,Orange,P.O. Box
+77640,Port Arthur,Jefferson,Standard
+77641,Port Arthur,Jefferson,P.O. Box
+77642,Port Arthur,Jefferson,Standard
+77643,Port Arthur,Jefferson,P.O. Box
+77650,Port Bolivar,Galveston,P.O. Box
+77651,Port Neches,Jefferson,Standard
+77655,Sabine Pass,Jefferson,Standard
+77656,Silsbee,Hardin,Standard
+77657,Lumberton,Hardin,Standard
+77659,Sour Lake,Hardin,Standard
+77660,Spurger,Tyler,Standard
+77661,Stowell,Chambers,P.O. Box
+77662,Vidor,Orange,Standard
+77663,Village Mills,Hardin,P.O. Box
+77664,Warren,Tyler,Standard
+77665,Winnie,Chambers,Standard
+77670,Vidor,Orange,P.O. Box
+77701,Beaumont,Jefferson,Standard
+77702,Beaumont,Jefferson,Standard
+77703,Beaumont,Jefferson,Standard
+77704,Beaumont,Jefferson,P.O. Box
+77705,Beaumont,Jefferson,Standard
+77706,Beaumont,Jefferson,Standard
+77707,Beaumont,Jefferson,Standard
+77708,Beaumont,Jefferson,Standard
+77710,Beaumont,Jefferson,P.O. Box
+77713,Beaumont,Jefferson,Standard
+77720,Beaumont,Jefferson,P.O. Box
+77725,Beaumont,Jefferson,P.O. Box
+77726,Beaumont,Jefferson,P.O. Box
+77801,Bryan,Brazos,Standard
+77802,Bryan,Brazos,Standard
+77803,Bryan,Brazos,Standard
+77805,Bryan,Brazos,P.O. Box
+77806,Bryan,Brazos,P.O. Box
+77807,Bryan,Brazos,Standard
+77808,Bryan,Brazos,Standard
+77830,Anderson,Grimes,Standard
+77831,Bedias,Grimes,Standard
+77833,Brenham,Washington,Standard
+77834,Brenham,Washington,P.O. Box
+77835,Burton,Washington,Standard
+77836,Caldwell,Burleson,Standard
+77837,Calvert,Robertson,Standard
+77838,Chriesman,Burleson,P.O. Box
+77840,College Station,Brazos,Standard
+77841,College Station,Brazos,P.O. Box
+77842,College Station,Brazos,P.O. Box
+77843,College Station,Brazos,Unique
+77844,College Station,Brazos,P.O. Box
+77845,College Station,Brazos,Standard
+77850,Concord,Leon,P.O. Box
+77852,Deanville,Burleson,P.O. Box
+77853,Dime Box,Lee,Standard
+77855,Flynn,Leon,P.O. Box
+77856,Franklin,Robertson,Standard
+77857,Gause,Milam,P.O. Box
+77859,Hearne,Robertson,Standard
+77861,Iola,Grimes,Standard
+77862,Kurten,Brazos,P.O. Box
+77863,Lyons,Burleson,P.O. Box
+77864,Madisonville,Madison,Standard
+77865,Marquez,Leon,Standard
+77866,Millican,Brazos,P.O. Box
+77867,Mumford,Robertson,P.O. Box
+77868,Navasota,Grimes,Standard
+77870,New Baden,Robertson,P.O. Box
+77871,Normangee,Leon,Standard
+77872,North Zulch,Madison,Standard
+77873,Richards,Grimes,Standard
+77875,Roans Prairie,Grimes,P.O. Box
+77876,Shiro,Grimes,P.O. Box
+77878,Snook,Burleson,P.O. Box
+77879,Somerville,Burleson,Standard
+77880,Washington,Washington,Standard
+77881,Wellborn,Brazos,P.O. Box
+77882,Wheelock,Robertson,P.O. Box
+77901,Victoria,Victoria,Standard
+77902,Victoria,Victoria,P.O. Box
+77903,Victoria,Victoria,P.O. Box
+77904,Victoria,Victoria,Standard
+77905,Victoria,Victoria,Standard
+77950,Austwell,Refugio,P.O. Box
+77951,Bloomington,Victoria,P.O. Box
+77954,Cuero,De Witt,Standard
+77957,Edna,Jackson,Standard
+77960,Fannin,Goliad,P.O. Box
+77961,Francitas,Jackson,P.O. Box
+77962,Ganado,Jackson,Standard
+77963,Goliad,Goliad,Standard
+77964,Hallettsville,Lavaca,Standard
+77967,Hochheim,De Witt,P.O. Box
+77968,Inez,Victoria,Standard
+77969,La Salle,Jackson,P.O. Box
+77970,La Ward,Jackson,P.O. Box
+77971,Lolita,Jackson,Standard
+77973,Mcfaddin,Victoria,P.O. Box
+77974,Meyersville,De Witt,Standard
+77975,Moulton,Lavaca,Standard
+77976,Nursery,Victoria,P.O. Box
+77977,Placedo,Victoria,P.O. Box
+77978,Point Comfort,Calhoun,P.O. Box
+77979,Port Lavaca,Calhoun,Standard
+77982,Port O Connor,Calhoun,P.O. Box
+77983,Seadrift,Calhoun,Standard
+77984,Shiner,Lavaca,Standard
+77986,Sublime,Lavaca,P.O. Box
+77987,Sweet Home,Lavaca,P.O. Box
+77988,Telferner,Victoria,P.O. Box
+77989,Thomaston,De Witt,P.O. Box
+77990,Tivoli,Refugio,Standard
+77991,Vanderbilt,Jackson,P.O. Box
+77993,Weesatche,Goliad,P.O. Box
+77994,Westhoff,De Witt,Standard
+77995,Yoakum,Lavaca,Standard
+78001,Artesia Wells,La Salle,P.O. Box
+78002,Atascosa,Bexar,Standard
+78003,Bandera,Bandera,Standard
+78004,Bergheim,Kendall,Standard
+78005,Bigfoot,Frio,Standard
+78006,Boerne,Kendall,Standard
+78007,Calliham,Mcmullen,Standard
+78008,Campbellton,Atascosa,Standard
+78009,Castroville,Medina,Standard
+78010,Center Point,Kerr,Standard
+78011,Charlotte,Atascosa,Standard
+78012,Christine,Atascosa,Standard
+78013,Comfort,Kendall,Standard
+78014,Cotulla,La Salle,Standard
+78015,Boerne,Kendall,Standard
+78016,Devine,Medina,Standard
+78017,Dilley,Frio,Standard
+78019,Encinal,La Salle,P.O. Box
+78021,Fowlerton,La Salle,Standard
+78022,George West,Live Oak,Standard
+78023,Helotes,Bexar,Standard
+78024,Hunt,Kerr,Standard
+78025,Ingram,Kerr,Standard
+78026,Jourdanton,Atascosa,Standard
+78027,Kendalia,Kendall,Standard
+78028,Kerrville,Kerr,Standard
+78029,Kerrville,Kerr,P.O. Box
+78039,La Coste,Medina,Standard
+78040,Laredo,Webb,Standard
+78041,Laredo,Webb,Standard
+78042,Laredo,Webb,P.O. Box
+78043,Laredo,Webb,Standard
+78044,Laredo,Webb,P.O. Box
+78045,Laredo,Webb,Standard
+78046,Laredo,Webb,Standard
+78050,Leming,Atascosa,P.O. Box
+78052,Lytle,Atascosa,Standard
+78054,Macdona,Bexar,P.O. Box
+78055,Medina,Bandera,Standard
+78056,Mico,Medina,Standard
+78057,Moore,Frio,Standard
+78058,Mountain Home,Kerr,Standard
+78059,Natalia,Medina,Standard
+78060,Oakville,Live Oak,Standard
+78061,Pearsall,Frio,Standard
+78062,Peggy,Atascosa,P.O. Box
+78063,Pipe Creek,Bandera,Standard
+78064,Pleasanton,Atascosa,Standard
+78065,Poteet,Atascosa,Standard
+78066,Rio Medina,Medina,Standard
+78067,San Ygnacio,Zapata,Standard
+78069,Somerset,Bexar,Standard
+78070,Spring Branch,Comal,Standard
+78071,Three Rivers,Live Oak,Standard
+78072,Tilden,Mcmullen,Standard
+78073,Von Ormy,Bexar,Standard
+78074,Waring,Kendall,P.O. Box
+78075,Whitsett,Live Oak,Standard
+78076,Zapata,Zapata,Standard
+78101,Adkins,Bexar,Standard
+78102,Beeville,Bee,Standard
+78104,Beeville,Bee,P.O. Box
+78107,Berclair,Goliad,P.O. Box
+78108,Cibolo,Guadalupe,Standard
+78109,Converse,Bexar,Standard
+78111,Ecleto,Karnes,Standard
+78112,Elmendorf,Bexar,Standard
+78113,Falls City,Karnes,Standard
+78114,Floresville,Wilson,Standard
+78115,Geronimo,Guadalupe,P.O. Box
+78116,Gillett,Karnes,Standard
+78117,Hobson,Karnes,Standard
+78118,Karnes City,Karnes,Standard
+78119,Kenedy,Karnes,Standard
+78121,La Vernia,Wilson,Standard
+78122,Leesville,Gonzales,Standard
+78123,Mc Queeney,Guadalupe,Standard
+78124,Marion,Guadalupe,Standard
+78125,Mineral,Bee,P.O. Box
+78130,New Braunfels,Comal,Standard
+78131,New Braunfels,Comal,P.O. Box
+78132,New Braunfels,Comal,Standard
+78133,Canyon Lake,Comal,Standard
+78135,New Braunfels,Comal,Standard
+78140,Nixon,Gonzales,Standard
+78141,Nordheim,De Witt,Standard
+78142,Normanna,Bee,P.O. Box
+78143,Pandora,Wilson,P.O. Box
+78144,Panna Maria,Karnes,P.O. Box
+78145,Pawnee,Bee,P.O. Box
+78146,Pettus,Bee,P.O. Box
+78147,Poth,Wilson,P.O. Box
+78148,Universal City,Bexar,Standard
+78150,Jbsa Randolph,Bexar,Standard
+78151,Runge,Karnes,Standard
+78152,Saint Hedwig,Bexar,Standard
+78154,Schertz,Guadalupe,Standard
+78155,Seguin,Guadalupe,Standard
+78156,Seguin,Guadalupe,P.O. Box
+78159,Smiley,Gonzales,Standard
+78160,Stockdale,Wilson,Standard
+78161,Sutherland Springs,Wilson,Standard
+78162,Tuleta,Bee,P.O. Box
+78163,Bulverde,Comal,Standard
+78164,Yorktown,De Witt,Standard
+78201,San Antonio,Bexar,Standard
+78202,San Antonio,Bexar,Standard
+78203,San Antonio,Bexar,Standard
+78204,San Antonio,Bexar,Standard
+78205,San Antonio,Bexar,Standard
+78206,San Antonio,Bexar,Standard
+78207,San Antonio,Bexar,Standard
+78208,San Antonio,Bexar,Standard
+78209,San Antonio,Bexar,Standard
+78210,San Antonio,Bexar,Standard
+78211,San Antonio,Bexar,Standard
+78212,San Antonio,Bexar,Standard
+78213,San Antonio,Bexar,Standard
+78214,San Antonio,Bexar,Standard
+78215,San Antonio,Bexar,Standard
+78216,San Antonio,Bexar,Standard
+78217,San Antonio,Bexar,Standard
+78218,San Antonio,Bexar,Standard
+78219,San Antonio,Bexar,Standard
+78220,San Antonio,Bexar,Standard
+78221,San Antonio,Bexar,Standard
+78222,San Antonio,Bexar,Standard
+78223,San Antonio,Bexar,Standard
+78224,San Antonio,Bexar,Standard
+78225,San Antonio,Bexar,Standard
+78226,San Antonio,Bexar,Standard
+78227,San Antonio,Bexar,Standard
+78228,San Antonio,Bexar,Standard
+78229,San Antonio,Bexar,Standard
+78230,San Antonio,Bexar,Standard
+78231,San Antonio,Bexar,Standard
+78232,San Antonio,Bexar,Standard
+78233,San Antonio,Bexar,Standard
+78234,Jbsa Ft Sam Houston,Bexar,Standard
+78235,San Antonio,Bexar,Standard
+78236,Jbsa Lackland,Bexar,Standard
+78237,San Antonio,Bexar,Standard
+78238,San Antonio,Bexar,Standard
+78239,San Antonio,Bexar,Standard
+78240,San Antonio,Bexar,Standard
+78241,San Antonio,Bexar,Standard
+78242,San Antonio,Bexar,Standard
+78243,San Antonio,Bexar,Standard
+78244,San Antonio,Bexar,Standard
+78245,San Antonio,Bexar,Standard
+78246,San Antonio,Bexar,P.O. Box
+78247,San Antonio,Bexar,Standard
+78248,San Antonio,Bexar,Standard
+78249,San Antonio,Bexar,Standard
+78250,San Antonio,Bexar,Standard
+78251,San Antonio,Bexar,Standard
+78252,San Antonio,Bexar,Standard
+78253,San Antonio,Bexar,Standard
+78254,San Antonio,Bexar,Standard
+78255,San Antonio,Bexar,Standard
+78256,San Antonio,Bexar,Standard
+78257,San Antonio,Bexar,Standard
+78258,San Antonio,Bexar,Standard
+78259,San Antonio,Bexar,Standard
+78260,San Antonio,Bexar,Standard
+78261,San Antonio,Bexar,Standard
+78263,San Antonio,Bexar,Standard
+78264,San Antonio,Bexar,Standard
+78265,San Antonio,Bexar,P.O. Box
+78266,San Antonio,Comal,Standard
+78268,San Antonio,Bexar,P.O. Box
+78269,San Antonio,Bexar,P.O. Box
+78270,San Antonio,Bexar,P.O. Box
+78278,San Antonio,Bexar,P.O. Box
+78279,San Antonio,Bexar,P.O. Box
+78280,San Antonio,Bexar,P.O. Box
+78283,San Antonio,Bexar,P.O. Box
+78284,San Antonio,Bexar,Standard
+78285,San Antonio,Bexar,Standard
+78288,San Antonio,Bexar,Unique
+78289,San Antonio,Bexar,Unique
+78291,San Antonio,Bexar,P.O. Box
+78292,San Antonio,Bexar,P.O. Box
+78293,San Antonio,Bexar,P.O. Box
+78294,San Antonio,Bexar,P.O. Box
+78295,San Antonio,Bexar,P.O. Box
+78296,San Antonio,Bexar,P.O. Box
+78297,San Antonio,Bexar,P.O. Box
+78298,San Antonio,Bexar,P.O. Box
+78299,San Antonio,Bexar,P.O. Box
+78330,Agua Dulce,Nueces,Standard
+78332,Alice,Jim Wells,Standard
+78333,Alice,Jim Wells,P.O. Box
+78335,Aransas Pass,San Patricio,P.O. Box
+78336,Aransas Pass,San Patricio,Standard
+78338,Armstrong,Kenedy,P.O. Box
+78339,Banquete,Nueces,P.O. Box
+78340,Bayside,Refugio,Standard
+78341,Benavides,Duval,P.O. Box
+78342,Ben Bolt,Jim Wells,P.O. Box
+78343,Bishop,Nueces,Standard
+78344,Bruni,Webb,Standard
+78347,Chapman Ranch,Nueces,P.O. Box
+78349,Concepcion,Duval,Standard
+78350,Dinero,Live Oak,P.O. Box
+78351,Driscoll,Nueces,P.O. Box
+78352,Edroy,San Patricio,P.O. Box
+78353,Encino,Brooks,Standard
+78355,Falfurrias,Brooks,Standard
+78357,Freer,Duval,Standard
+78358,Fulton,Aransas,P.O. Box
+78359,Gregory,San Patricio,P.O. Box
+78360,Guerra,Jim Hogg,Standard
+78361,Hebbronville,Jim Hogg,Standard
+78362,Ingleside,San Patricio,Standard
+78363,Kingsville,Kleberg,Standard
+78364,Kingsville,Kleberg,P.O. Box
+78368,Mathis,San Patricio,Standard
+78369,Mirando City,Webb,Standard
+78370,Odem,San Patricio,Standard
+78371,Oilton,Webb,P.O. Box
+78372,Orange Grove,Jim Wells,Standard
+78373,Port Aransas,Nueces,Standard
+78374,Portland,San Patricio,Standard
+78375,Premont,Jim Wells,Standard
+78376,Realitos,Duval,Standard
+78377,Refugio,Refugio,Standard
+78379,Riviera,Kleberg,Standard
+78380,Robstown,Nueces,Standard
+78381,Rockport,Aransas,P.O. Box
+78382,Rockport,Aransas,Standard
+78383,Sandia,Jim Wells,Standard
+78384,San Diego,Duval,Standard
+78385,Sarita,Kenedy,P.O. Box
+78387,Sinton,San Patricio,Standard
+78389,Skidmore,Bee,Standard
+78390,Taft,San Patricio,Standard
+78391,Tynan,Bee,Standard
+78393,Woodsboro,Refugio,Standard
+78401,Corpus Christi,Nueces,Standard
+78402,Corpus Christi,Nueces,Standard
+78403,Corpus Christi,Nueces,P.O. Box
+78404,Corpus Christi,Nueces,Standard
+78405,Corpus Christi,Nueces,Standard
+78406,Corpus Christi,Nueces,Standard
+78407,Corpus Christi,Nueces,Standard
+78408,Corpus Christi,Nueces,Standard
+78409,Corpus Christi,Nueces,Standard
+78410,Corpus Christi,Nueces,Standard
+78411,Corpus Christi,Nueces,Standard
+78412,Corpus Christi,Nueces,Standard
+78413,Corpus Christi,Nueces,Standard
+78414,Corpus Christi,Nueces,Standard
+78415,Corpus Christi,Nueces,Standard
+78416,Corpus Christi,Nueces,Standard
+78417,Corpus Christi,Nueces,Standard
+78418,Corpus Christi,Nueces,Standard
+78419,Corpus Christi,Nueces,Standard
+78426,Corpus Christi,Nueces,P.O. Box
+78427,Corpus Christi,Nueces,P.O. Box
+78460,Corpus Christi,Nueces,P.O. Box
+78463,Corpus Christi,Nueces,P.O. Box
+78465,Corpus Christi,Nueces,P.O. Box
+78466,Corpus Christi,Nueces,P.O. Box
+78467,Corpus Christi,Nueces,P.O. Box
+78468,Corpus Christi,Nueces,P.O. Box
+78469,Corpus Christi,Nueces,P.O. Box
+78472,Corpus Christi,Nueces,P.O. Box
+78480,Corpus Christi,Nueces,P.O. Box
+78501,Mcallen,Hidalgo,Standard
+78502,Mcallen,Hidalgo,P.O. Box
+78503,Mcallen,Hidalgo,Standard
+78504,Mcallen,Hidalgo,Standard
+78505,Mcallen,Hidalgo,P.O. Box
+78516,Alamo,Hidalgo,Standard
+78520,Brownsville,Cameron,Standard
+78521,Brownsville,Cameron,Standard
+78522,Brownsville,Cameron,P.O. Box
+78523,Brownsville,Cameron,P.O. Box
+78526,Brownsville,Cameron,Standard
+78535,Combes,Cameron,P.O. Box
+78536,Delmita,Starr,Standard
+78537,Donna,Hidalgo,Standard
+78538,Edcouch,Hidalgo,Standard
+78539,Edinburg,Hidalgo,Standard
+78540,Edinburg,Hidalgo,P.O. Box
+78541,Edinburg,Hidalgo,Standard
+78542,Edinburg,Hidalgo,Standard
+78543,Elsa,Hidalgo,P.O. Box
+78545,Falcon Heights,Starr,P.O. Box
+78547,Garciasville,Starr,P.O. Box
+78548,Grulla,Starr,P.O. Box
+78549,Hargill,Hidalgo,P.O. Box
+78550,Harlingen,Cameron,Standard
+78551,Harlingen,Cameron,P.O. Box
+78552,Harlingen,Cameron,Standard
+78553,Harlingen,Cameron,P.O. Box
+78557,Hidalgo,Hidalgo,Standard
+78558,La Blanca,Hidalgo,P.O. Box
+78559,La Feria,Cameron,Standard
+78560,La Joya,Hidalgo,Standard
+78561,Lasara,Willacy,P.O. Box
+78562,La Villa,Hidalgo,P.O. Box
+78563,Linn,Hidalgo,Standard
+78564,Lopeno,Zapata,Standard
+78565,Los Ebanos,Hidalgo,P.O. Box
+78566,Los Fresnos,Cameron,Standard
+78567,Los Indios,Cameron,P.O. Box
+78568,Lozano,Cameron,P.O. Box
+78569,Lyford,Willacy,Standard
+78570,Mercedes,Hidalgo,Standard
+78572,Mission,Hidalgo,Standard
+78573,Mission,Hidalgo,Standard
+78574,Mission,Hidalgo,Standard
+78575,Olmito,Cameron,Standard
+78576,Penitas,Hidalgo,Standard
+78577,Pharr,Hidalgo,Standard
+78578,Port Isabel,Cameron,Standard
+78579,Progreso,Hidalgo,P.O. Box
+78580,Raymondville,Willacy,Standard
+78582,Rio Grande City,Starr,Standard
+78583,Rio Hondo,Cameron,Standard
+78584,Roma,Starr,Standard
+78585,Salineno,Starr,P.O. Box
+78586,San Benito,Cameron,Standard
+78588,San Isidro,Starr,Standard
+78589,San Juan,Hidalgo,Standard
+78590,San Perlita,Willacy,P.O. Box
+78591,Santa Elena,Starr,Standard
+78592,Santa Maria,Cameron,P.O. Box
+78593,Santa Rosa,Cameron,Standard
+78594,Sebastian,Willacy,P.O. Box
+78595,Sullivan City,Hidalgo,Standard
+78596,Weslaco,Hidalgo,Standard
+78597,South Padre Island,Cameron,Standard
+78598,Port Mansfield,Willacy,P.O. Box
+78599,Weslaco,Hidalgo,Standard
+78602,Bastrop,Bastrop,Standard
+78604,Belmont,Gonzales,P.O. Box
+78605,Bertram,Burnet,Standard
+78606,Blanco,Blanco,Standard
+78607,Bluffton,Llano,Standard
+78608,Briggs,Burnet,Standard
+78609,Buchanan Dam,Llano,Standard
+78610,Buda,Hays,Standard
+78611,Burnet,Burnet,Standard
+78612,Cedar Creek,Bastrop,Standard
+78613,Cedar Park,Williamson,Standard
+78614,Cost,Gonzales,Standard
+78615,Coupland,Williamson,Standard
+78616,Dale,Caldwell,Standard
+78617,Del Valle,Travis,Standard
+78618,Doss,Gillespie,Standard
+78619,Driftwood,Hays,Standard
+78620,Dripping Springs,Hays,Standard
+78621,Elgin,Bastrop,Standard
+78622,Fentress,Caldwell,P.O. Box
+78623,Fischer,Comal,Standard
+78624,Fredericksburg,Gillespie,Standard
+78626,Georgetown,Williamson,Standard
+78627,Georgetown,Williamson,P.O. Box
+78628,Georgetown,Williamson,Standard
+78629,Gonzales,Gonzales,Standard
+78630,Cedar Park,Williamson,P.O. Box
+78631,Harper,Gillespie,Standard
+78632,Harwood,Gonzales,Standard
+78633,Georgetown,Williamson,Standard
+78634,Hutto,Williamson,Standard
+78635,Hye,Blanco,Standard
+78636,Johnson City,Blanco,Standard
+78638,Kingsbury,Guadalupe,Standard
+78639,Kingsland,Llano,Standard
+78640,Kyle,Hays,Standard
+78641,Leander,Williamson,Standard
+78642,Liberty Hill,Williamson,Standard
+78643,Llano,Llano,Standard
+78644,Lockhart,Caldwell,Standard
+78645,Leander,Travis,Standard
+78646,Leander,Williamson,P.O. Box
+78648,Luling,Caldwell,Standard
+78650,Mc Dade,Bastrop,Standard
+78651,Mc Neil,Travis,P.O. Box
+78652,Manchaca,Travis,Standard
+78653,Manor,Travis,Standard
+78654,Marble Falls,Burnet,Standard
+78655,Martindale,Caldwell,Standard
+78656,Maxwell,Caldwell,Standard
+78657,Horseshoe Bay,Llano,Standard
+78658,Ottine,Gonzales,P.O. Box
+78659,Paige,Bastrop,Standard
+78660,Pflugerville,Travis,Standard
+78661,Prairie Lea,Caldwell,P.O. Box
+78662,Red Rock,Bastrop,Standard
+78663,Round Mountain,Blanco,Standard
+78664,Round Rock,Williamson,Standard
+78665,Round Rock,Williamson,Standard
+78666,San Marcos,Hays,Standard
+78667,San Marcos,Hays,P.O. Box
+78669,Spicewood,Travis,Standard
+78670,Staples,Guadalupe,P.O. Box
+78671,Stonewall,Gillespie,Standard
+78672,Tow,Llano,Standard
+78673,Walburg,Williamson,P.O. Box
+78674,Weir,Williamson,P.O. Box
+78675,Willow City,Gillespie,Standard
+78676,Wimberley,Hays,Standard
+78677,Wrightsboro,Gonzales,Standard
+78680,Round Rock,Williamson,P.O. Box
+78681,Round Rock,Williamson,Standard
+78682,Round Rock,Williamson,Unique
+78683,Round Rock,Williamson,P.O. Box
+78691,Pflugerville,Travis,P.O. Box
+78701,Austin,Travis,Standard
+78702,Austin,Travis,Standard
+78703,Austin,Travis,Standard
+78704,Austin,Travis,Standard
+78705,Austin,Travis,Standard
+78708,Austin,Travis,P.O. Box
+78709,Austin,Travis,P.O. Box
+78710,Austin,Travis,Standard
+78711,Austin,Travis,P.O. Box
+78712,Austin,Travis,Standard
+78713,Austin,Travis,P.O. Box
+78714,Austin,Travis,P.O. Box
+78715,Austin,Travis,P.O. Box
+78716,Austin,Travis,P.O. Box
+78717,Austin,Williamson,Standard
+78718,Austin,Travis,P.O. Box
+78719,Austin,Travis,Standard
+78720,Austin,Travis,P.O. Box
+78721,Austin,Travis,Standard
+78722,Austin,Travis,Standard
+78723,Austin,Travis,Standard
+78724,Austin,Travis,Standard
+78725,Austin,Travis,Standard
+78726,Austin,Travis,Standard
+78727,Austin,Travis,Standard
+78728,Austin,Travis,Standard
+78729,Austin,Williamson,Standard
+78730,Austin,Travis,Standard
+78731,Austin,Travis,Standard
+78732,Austin,Travis,Standard
+78733,Austin,Travis,Standard
+78734,Austin,Travis,Standard
+78735,Austin,Travis,Standard
+78736,Austin,Travis,Standard
+78737,Austin,Hays,Standard
+78738,Austin,Travis,Standard
+78739,Austin,Travis,Standard
+78741,Austin,Travis,Standard
+78742,Austin,Travis,Standard
+78744,Austin,Travis,Standard
+78745,Austin,Travis,Standard
+78746,Austin,Travis,Standard
+78747,Austin,Travis,Standard
+78748,Austin,Travis,Standard
+78749,Austin,Travis,Standard
+78750,Austin,Travis,Standard
+78751,Austin,Travis,Standard
+78752,Austin,Travis,Standard
+78753,Austin,Travis,Standard
+78754,Austin,Travis,Standard
+78755,Austin,Travis,P.O. Box
+78756,Austin,Travis,Standard
+78757,Austin,Travis,Standard
+78758,Austin,Travis,Standard
+78759,Austin,Travis,Standard
+78760,Austin,Travis,P.O. Box
+78761,Austin,Travis,P.O. Box
+78762,Austin,Travis,P.O. Box
+78763,Austin,Travis,P.O. Box
+78764,Austin,Travis,P.O. Box
+78765,Austin,Travis,P.O. Box
+78766,Austin,Travis,P.O. Box
+78767,Austin,Travis,P.O. Box
+78768,Austin,Travis,P.O. Box
+78772,Austin,Travis,Unique
+78773,Austin,Travis,Unique
+78774,Austin,Travis,Unique
+78778,Austin,Travis,Unique
+78779,Austin,Travis,Unique
+78783,Austin,Travis,Unique
+78799,Austin,Travis,Standard
+78801,Uvalde,Uvalde,Standard
+78802,Uvalde,Uvalde,P.O. Box
+78827,Asherton,Dimmit,Standard
+78828,Barksdale,Edwards,Standard
+78829,Batesville,Zavala,Standard
+78830,Big Wells,Dimmit,Standard
+78832,Brackettville,Kinney,Standard
+78833,Camp Wood,Real,Standard
+78834,Carrizo Springs,Dimmit,Standard
+78836,Catarina,Dimmit,P.O. Box
+78837,Comstock,Val Verde,Standard
+78838,Concan,Uvalde,Standard
+78839,Crystal City,Zavala,Standard
+78840,Del Rio,Val Verde,Standard
+78841,Del Rio,Val Verde,P.O. Box
+78842,Del Rio,Val Verde,P.O. Box
+78843,Laughlin AFB,Val Verde,Standard
+78847,Del Rio,Val Verde,Unique
+78850,D Hanis,Medina,Standard
+78851,Dryden,Terrell,Standard
+78852,Eagle Pass,Maverick,Standard
+78853,Eagle Pass,Maverick,P.O. Box
+78860,El Indio,Maverick,P.O. Box
+78861,Hondo,Medina,Standard
+78870,Knippa,Uvalde,Standard
+78871,Langtry,Val Verde,P.O. Box
+78872,La Pryor,Zavala,P.O. Box
+78873,Leakey,Real,Standard
+78877,Quemado,Maverick,Standard
+78879,Rio Frio,Real,Standard
+78880,Rocksprings,Edwards,Standard
+78881,Sabinal,Uvalde,Standard
+78883,Tarpley,Bandera,Standard
+78884,Utopia,Uvalde,Standard
+78885,Vanderpool,Bandera,Standard
+78886,Yancey,Medina,Standard
+78931,Bleiblerville,Austin,Standard
+78932,Carmine,Fayette,Standard
+78933,Cat Spring,Austin,Standard
+78934,Columbus,Colorado,Standard
+78935,Alleyton,Colorado,Standard
+78938,Ellinger,Fayette,Standard
+78940,Fayetteville,Fayette,Standard
+78941,Flatonia,Fayette,Standard
+78942,Giddings,Lee,Standard
+78943,Glidden,Colorado,Standard
+78944,Industry,Austin,Standard
+78945,La Grange,Fayette,Standard
+78946,Ledbetter,Fayette,Standard
+78947,Lexington,Lee,Standard
+78948,Lincoln,Lee,Standard
+78949,Muldoon,Fayette,Standard
+78950,New Ulm,Austin,Standard
+78951,Oakland,Colorado,P.O. Box
+78952,Plum,Fayette,P.O. Box
+78953,Rosanky,Bastrop,Standard
+78954,Round Top,Fayette,Standard
+78956,Schulenburg,Fayette,Standard
+78957,Smithville,Bastrop,Standard
+78959,Waelder,Gonzales,Standard
+78960,Warda,Fayette,P.O. Box
+78961,Warrenton,Fayette,P.O. Box
+78962,Weimar,Colorado,Standard
+78963,West Point,Fayette,Standard
+79001,Adrian,Oldham,Standard
+79002,Alanreed,Gray,P.O. Box
+79003,Allison,Wheeler,P.O. Box
+79005,Booker,Lipscomb,Standard
+79007,Borger,Hutchinson,Standard
+79008,Borger,Hutchinson,P.O. Box
+79009,Bovina,Parmer,Standard
+79010,Boys Ranch,Oldham,P.O. Box
+79011,Briscoe,Wheeler,Standard
+79012,Bushland,Potter,P.O. Box
+79013,Cactus,Moore,Standard
+79014,Canadian,Hemphill,Standard
+79015,Canyon,Randall,Standard
+79016,Canyon,Randall,Unique
+79018,Channing,Hartley,Standard
+79019,Claude,Armstrong,Standard
+79021,Cotton Center,Hale,P.O. Box
+79022,Dalhart,Dallam,Standard
+79024,Darrouzett,Lipscomb,P.O. Box
+79025,Dawn,Deaf Smith,P.O. Box
+79027,Dimmitt,Castro,Standard
+79029,Dumas,Moore,Standard
+79031,Earth,Lamb,Standard
+79032,Edmonson,Hale,P.O. Box
+79033,Farnsworth,Ochiltree,P.O. Box
+79034,Follett,Lipscomb,Standard
+79035,Friona,Parmer,Standard
+79036,Fritch,Hutchinson,Standard
+79039,Groom,Carson,Standard
+79040,Gruver,Hansford,Standard
+79041,Hale Center,Hale,Standard
+79042,Happy,Swisher,Standard
+79043,Hart,Castro,Standard
+79044,Hartley,Hartley,Standard
+79045,Hereford,Deaf Smith,Standard
+79046,Higgins,Lipscomb,Standard
+79051,Kerrick,Dallam,P.O. Box
+79052,Kress,Swisher,Standard
+79053,Lazbuddie,Parmer,P.O. Box
+79054,Lefors,Gray,P.O. Box
+79056,Lipscomb,Lipscomb,Standard
+79057,Mclean,Gray,Standard
+79058,Masterson,Moore,Standard
+79059,Miami,Roberts,Standard
+79061,Mobeetie,Wheeler,Standard
+79062,Morse,Hansford,Standard
+79063,Nazareth,Castro,Standard
+79064,Olton,Lamb,Standard
+79065,Pampa,Gray,Standard
+79066,Pampa,Gray,P.O. Box
+79068,Panhandle,Carson,Standard
+79070,Perryton,Ochiltree,Standard
+79072,Plainview,Hale,Standard
+79073,Plainview,Hale,P.O. Box
+79077,Samnorwood,Collingsworth,P.O. Box
+79078,Sanford,Hutchinson,P.O. Box
+79079,Shamrock,Wheeler,Standard
+79080,Skellytown,Carson,Standard
+79081,Spearman,Hansford,Standard
+79082,Springlake,Lamb,Standard
+79083,Stinnett,Hutchinson,Standard
+79084,Stratford,Sherman,Standard
+79085,Summerfield,Castro,Standard
+79086,Sunray,Moore,Standard
+79087,Texline,Dallam,Standard
+79088,Tulia,Swisher,Standard
+79091,Umbarger,Randall,P.O. Box
+79092,Vega,Oldham,Standard
+79093,Waka,Ochiltree,P.O. Box
+79094,Wayside,Armstrong,Standard
+79095,Wellington,Collingsworth,Standard
+79096,Wheeler,Wheeler,Standard
+79097,White Deer,Carson,Standard
+79098,Wildorado,Oldham,Standard
+79101,Amarillo,Potter,Standard
+79102,Amarillo,Potter,Standard
+79103,Amarillo,Potter,Standard
+79104,Amarillo,Potter,Standard
+79105,Amarillo,Potter,P.O. Box
+79106,Amarillo,Potter,Standard
+79107,Amarillo,Potter,Standard
+79108,Amarillo,Potter,Standard
+79109,Amarillo,Randall,Standard
+79110,Amarillo,Randall,Standard
+79111,Amarillo,Potter,Standard
+79114,Amarillo,Randall,P.O. Box
+79116,Amarillo,Potter,P.O. Box
+79117,Amarillo,Potter,P.O. Box
+79118,Amarillo,Randall,Standard
+79119,Amarillo,Randall,Standard
+79120,Amarillo,Potter,P.O. Box
+79121,Amarillo,Randall,Standard
+79124,Amarillo,Potter,Standard
+79159,Amarillo,Potter,P.O. Box
+79166,Amarillo,Potter,Unique
+79168,Amarillo,Potter,Unique
+79172,Amarillo,Potter,Unique
+79174,Amarillo,Potter,Unique
+79178,Amarillo,Potter,Unique
+79185,Amarillo,Potter,Unique
+79189,Amarillo,Potter,P.O. Box
+79201,Childress,Childress,Standard
+79220,Afton,Dickens,Standard
+79221,Aiken,Floyd,P.O. Box
+79223,Cee Vee,Cottle,Standard
+79225,Chillicothe,Hardeman,Standard
+79226,Clarendon,Donley,Standard
+79227,Crowell,Foard,Standard
+79229,Dickens,Dickens,Standard
+79230,Dodson,Collingsworth,Standard
+79231,Dougherty,Floyd,P.O. Box
+79233,Estelline,Hall,P.O. Box
+79234,Flomot,Motley,Standard
+79235,Floydada,Floyd,Standard
+79236,Guthrie,King,P.O. Box
+79237,Hedley,Donley,Standard
+79239,Lakeview,Hall,Standard
+79240,Lelia Lake,Donley,Standard
+79241,Lockney,Floyd,Standard
+79243,Mcadoo,Dickens,Standard
+79244,Matador,Motley,Standard
+79245,Memphis,Hall,Standard
+79247,Odell,Wilbarger,Standard
+79248,Paducah,Cottle,Standard
+79250,Petersburg,Hale,Standard
+79251,Quail,Collingsworth,Standard
+79252,Quanah,Hardeman,Standard
+79255,Quitaque,Briscoe,Standard
+79256,Roaring Springs,Motley,Standard
+79257,Silverton,Briscoe,Standard
+79258,South Plains,Floyd,P.O. Box
+79259,Tell,Childress,Standard
+79261,Turkey,Hall,Standard
+79311,Abernathy,Hale,Standard
+79312,Amherst,Lamb,Standard
+79313,Anton,Hockley,Standard
+79314,Bledsoe,Cochran,P.O. Box
+79316,Brownfield,Terry,Standard
+79322,Crosbyton,Crosby,Standard
+79323,Denver City,Yoakum,Standard
+79324,Enochs,Bailey,Standard
+79325,Farwell,Parmer,Standard
+79326,Fieldton,Lamb,Standard
+79329,Idalou,Lubbock,Standard
+79330,Justiceburg,Garza,Standard
+79331,Lamesa,Dawson,Standard
+79336,Levelland,Hockley,Standard
+79338,Levelland,Hockley,P.O. Box
+79339,Littlefield,Lamb,Standard
+79342,Loop,Gaines,Standard
+79343,Lorenzo,Crosby,Standard
+79344,Maple,Bailey,Standard
+79345,Meadow,Terry,Standard
+79346,Morton,Cochran,Standard
+79347,Muleshoe,Bailey,Standard
+79350,New Deal,Lubbock,P.O. Box
+79351,Odonnell,Lynn,Standard
+79353,Pep,Hockley,Standard
+79355,Plains,Yoakum,Standard
+79356,Post,Garza,Standard
+79357,Ralls,Crosby,Standard
+79358,Ropesville,Hockley,Standard
+79359,Seagraves,Gaines,Standard
+79360,Seminole,Gaines,Standard
+79363,Shallowater,Lubbock,Standard
+79364,Slaton,Lubbock,Standard
+79366,Ransom Canyon,Lubbock,Standard
+79367,Smyer,Hockley,P.O. Box
+79369,Spade,Lamb,P.O. Box
+79370,Spur,Dickens,Standard
+79371,Sudan,Lamb,Standard
+79372,Sundown,Hockley,P.O. Box
+79373,Tahoka,Lynn,Standard
+79376,Tokio,Yoakum,Standard
+79377,Welch,Dawson,Standard
+79378,Wellman,Terry,P.O. Box
+79379,Whiteface,Cochran,P.O. Box
+79380,Whitharral,Hockley,P.O. Box
+79381,Wilson,Lynn,Standard
+79382,Wolfforth,Lubbock,Standard
+79383,New Home,Lynn,P.O. Box
+79401,Lubbock,Lubbock,Standard
+79402,Lubbock,Lubbock,Standard
+79403,Lubbock,Lubbock,Standard
+79404,Lubbock,Lubbock,Standard
+79406,Lubbock,Lubbock,Standard
+79407,Lubbock,Lubbock,Standard
+79408,Lubbock,Lubbock,P.O. Box
+79409,Lubbock,Lubbock,Standard
+79410,Lubbock,Lubbock,Standard
+79411,Lubbock,Lubbock,Standard
+79412,Lubbock,Lubbock,Standard
+79413,Lubbock,Lubbock,Standard
+79414,Lubbock,Lubbock,Standard
+79415,Lubbock,Lubbock,Standard
+79416,Lubbock,Lubbock,Standard
+79423,Lubbock,Lubbock,Standard
+79424,Lubbock,Lubbock,Standard
+79430,Lubbock,Lubbock,Unique
+79452,Lubbock,Lubbock,P.O. Box
+79453,Lubbock,Lubbock,P.O. Box
+79457,Lubbock,Lubbock,Unique
+79464,Lubbock,Lubbock,P.O. Box
+79490,Lubbock,Lubbock,P.O. Box
+79491,Lubbock,Lubbock,Unique
+79493,Lubbock,Lubbock,P.O. Box
+79499,Lubbock,Lubbock,P.O. Box
+79501,Anson,Jones,Standard
+79502,Aspermont,Stonewall,Standard
+79503,Avoca,Jones,Standard
+79504,Baird,Callahan,Standard
+79505,Benjamin,Knox,Standard
+79506,Blackwell,Nolan,Standard
+79508,Buffalo Gap,Taylor,Standard
+79510,Clyde,Callahan,Standard
+79511,Coahoma,Howard,Standard
+79512,Colorado City,Mitchell,Standard
+79516,Dunn,Scurry,P.O. Box
+79517,Fluvanna,Scurry,Standard
+79518,Girard,Kent,Standard
+79519,Goldsboro,Coleman,Standard
+79520,Hamlin,Jones,Standard
+79521,Haskell,Haskell,Standard
+79525,Hawley,Jones,Standard
+79526,Hermleigh,Scurry,Standard
+79527,Ira,Scurry,Standard
+79528,Jayton,Kent,Standard
+79529,Knox City,Knox,Standard
+79530,Lawn,Taylor,Standard
+79532,Loraine,Mitchell,Standard
+79533,Lueders,Jones,Standard
+79534,Mc Caulley,Fisher,Standard
+79535,Maryneal,Nolan,Standard
+79536,Merkel,Taylor,Standard
+79537,Nolan,Nolan,Standard
+79538,Novice,Coleman,Standard
+79539,O Brien,Haskell,Standard
+79540,Old Glory,Stonewall,Standard
+79541,Ovalo,Taylor,Standard
+79543,Roby,Fisher,Standard
+79544,Rochester,Haskell,Standard
+79545,Roscoe,Nolan,Standard
+79546,Rotan,Fisher,Standard
+79547,Rule,Haskell,Standard
+79548,Rule,Haskell,Standard
+79549,Snyder,Scurry,Standard
+79550,Snyder,Scurry,P.O. Box
+79553,Stamford,Jones,Standard
+79556,Sweetwater,Nolan,Standard
+79560,Sylvester,Fisher,Standard
+79561,Trent,Taylor,Standard
+79562,Tuscola,Taylor,Standard
+79563,Tye,Taylor,Standard
+79565,Westbrook,Mitchell,Standard
+79566,Wingate,Runnels,Standard
+79567,Winters,Runnels,Standard
+79601,Abilene,Taylor,Standard
+79602,Abilene,Taylor,Standard
+79603,Abilene,Taylor,Standard
+79604,Abilene,Taylor,P.O. Box
+79605,Abilene,Taylor,Standard
+79606,Abilene,Taylor,Standard
+79607,Dyess AFB,Taylor,Standard
+79608,Abilene,Taylor,P.O. Box
+79697,Abilene,Taylor,Unique
+79698,Abilene,Taylor,Unique
+79699,Abilene,Taylor,Unique
+79701,Midland,Midland,Standard
+79702,Midland,Midland,P.O. Box
+79703,Midland,Midland,Standard
+79704,Midland,Midland,P.O. Box
+79705,Midland,Midland,Standard
+79706,Midland,Midland,Standard
+79707,Midland,Midland,Standard
+79708,Midland,Midland,P.O. Box
+79710,Midland,Midland,P.O. Box
+79711,Midland,Midland,P.O. Box
+79712,Midland,Midland,Standard
+79713,Ackerly,Martin,Standard
+79714,Andrews,Andrews,Standard
+79718,Balmorhea,Reeves,Standard
+79719,Barstow,Ward,P.O. Box
+79720,Big Spring,Howard,Standard
+79721,Big Spring,Howard,P.O. Box
+79730,Coyanosa,Pecos,P.O. Box
+79731,Crane,Crane,Standard
+79733,Forsan,Howard,P.O. Box
+79734,Fort Davis,Jeff Davis,Standard
+79735,Fort Stockton,Pecos,Standard
+79738,Gail,Borden,Standard
+79739,Garden City,Glasscock,Standard
+79740,Girvin,Pecos,Standard
+79741,Goldsmith,Ector,Standard
+79742,Grandfalls,Ward,P.O. Box
+79743,Imperial,Pecos,P.O. Box
+79744,Iraan,Pecos,P.O. Box
+79745,Kermit,Winkler,Standard
+79748,Knott,Howard,Standard
+79749,Lenorah,Martin,Standard
+79752,Mc Camey,Upton,Standard
+79754,Mentone,Loving,P.O. Box
+79755,Midkiff,Upton,Standard
+79756,Monahans,Ward,Standard
+79758,Gardendale,Ector,Standard
+79759,Notrees,Ector,P.O. Box
+79760,Odessa,Ector,P.O. Box
+79761,Odessa,Ector,Standard
+79762,Odessa,Ector,Standard
+79763,Odessa,Ector,Standard
+79764,Odessa,Ector,Standard
+79765,Odessa,Ector,Standard
+79766,Odessa,Ector,Standard
+79768,Odessa,Ector,P.O. Box
+79769,Odessa,Ector,P.O. Box
+79770,Orla,Reeves,P.O. Box
+79772,Pecos,Reeves,Standard
+79776,Penwell,Ector,P.O. Box
+79777,Pyote,Ward,P.O. Box
+79778,Rankin,Upton,P.O. Box
+79780,Saragosa,Reeves,P.O. Box
+79781,Sheffield,Pecos,P.O. Box
+79782,Stanton,Martin,Standard
+79783,Tarzan,Martin,Standard
+79785,Toyah,Reeves,P.O. Box
+79786,Toyahvale,Reeves,P.O. Box
+79788,Wickett,Ward,P.O. Box
+79789,Wink,Winkler,P.O. Box
+79821,Anthony,El Paso,Standard
+79830,Alpine,Brewster,Standard
+79831,Alpine,Brewster,P.O. Box
+79832,Alpine,Brewster,Unique
+79834,Big Bend National Park,Brewster,P.O. Box
+79835,Canutillo,El Paso,Standard
+79836,Clint,El Paso,Standard
+79837,Dell City,Hudspeth,P.O. Box
+79838,Fabens,El Paso,P.O. Box
+79839,Fort Hancock,Hudspeth,Standard
+79842,Marathon,Brewster,P.O. Box
+79843,Marfa,Presidio,Standard
+79845,Presidio,Presidio,P.O. Box
+79846,Redford,Presidio,P.O. Box
+79847,Salt Flat,Hudspeth,Standard
+79848,Sanderson,Terrell,P.O. Box
+79849,San Elizario,El Paso,Standard
+79851,Sierra Blanca,Hudspeth,P.O. Box
+79852,Terlingua,Brewster,Standard
+79853,Tornillo,El Paso,P.O. Box
+79854,Valentine,Presidio,Standard
+79855,Van Horn,Culberson,P.O. Box
+79901,El Paso,El Paso,Standard
+79902,El Paso,El Paso,Standard
+79903,El Paso,El Paso,Standard
+79904,El Paso,El Paso,Standard
+79905,El Paso,El Paso,Standard
+79906,El Paso,El Paso,Standard
+79907,El Paso,El Paso,Standard
+79908,El Paso,El Paso,Standard
+79910,El Paso,El Paso,Standard
+79911,El Paso,El Paso,Standard
+79912,El Paso,El Paso,Standard
+79913,El Paso,El Paso,P.O. Box
+79914,El Paso,El Paso,P.O. Box
+79915,El Paso,El Paso,Standard
+79916,Fort Bliss,El Paso,Standard
+79917,El Paso,El Paso,P.O. Box
+79918,Fort Bliss,El Paso,Standard
+79920,El Paso,El Paso,P.O. Box
+79922,El Paso,El Paso,Standard
+79923,El Paso,El Paso,P.O. Box
+79924,El Paso,El Paso,Standard
+79925,El Paso,El Paso,Standard
+79926,El Paso,El Paso,P.O. Box
+79927,El Paso,El Paso,Standard
+79928,El Paso,El Paso,Standard
+79929,El Paso,El Paso,P.O. Box
+79930,El Paso,El Paso,Standard
+79931,El Paso,El Paso,P.O. Box
+79932,El Paso,El Paso,Standard
+79934,El Paso,El Paso,Standard
+79935,El Paso,El Paso,Standard
+79936,El Paso,El Paso,Standard
+79937,El Paso,El Paso,P.O. Box
+79938,El Paso,El Paso,Standard
+79940,El Paso,El Paso,P.O. Box
+79941,El Paso,El Paso,P.O. Box
+79942,El Paso,El Paso,P.O. Box
+79943,El Paso,El Paso,P.O. Box
+79944,El Paso,El Paso,P.O. Box
+79945,El Paso,El Paso,P.O. Box
+79946,El Paso,El Paso,P.O. Box
+79947,El Paso,El Paso,P.O. Box
+79948,El Paso,El Paso,P.O. Box
+79949,El Paso,El Paso,P.O. Box
+79950,El Paso,El Paso,P.O. Box
+79951,El Paso,El Paso,P.O. Box
+79952,El Paso,El Paso,P.O. Box
+79953,El Paso,El Paso,P.O. Box
+79954,El Paso,El Paso,P.O. Box
+79955,El Paso,El Paso,P.O. Box
+79958,El Paso,El Paso,Unique
+79960,El Paso,El Paso,Unique
+79961,El Paso,El Paso,Unique
+79968,El Paso,El Paso,Unique
+79976,El Paso,El Paso,Unique
+79978,El Paso,El Paso,Unique
+79980,El Paso,El Paso,Unique
+79995,El Paso,El Paso,P.O. Box
+79996,El Paso,El Paso,P.O. Box
+79997,El Paso,El Paso,P.O. Box
+79998,El Paso,El Paso,P.O. Box
+79999,El Paso,El Paso,P.O. Box
+88510,El Paso,El Paso,P.O. Box
+88511,El Paso,El Paso,P.O. Box
+88512,El Paso,El Paso,P.O. Box
+88513,El Paso,El Paso,P.O. Box
+88514,El Paso,El Paso,P.O. Box
+88515,El Paso,El Paso,P.O. Box
+88517,El Paso,El Paso,P.O. Box
+88518,El Paso,El Paso,P.O. Box
+88519,El Paso,El Paso,P.O. Box
+88520,El Paso,El Paso,P.O. Box
+88521,El Paso,El Paso,P.O. Box
+88523,El Paso,El Paso,P.O. Box
+88524,El Paso,El Paso,P.O. Box
+88525,El Paso,El Paso,P.O. Box
+88526,El Paso,El Paso,P.O. Box
+88527,El Paso,El Paso,P.O. Box
+88528,El Paso,El Paso,P.O. Box
+88529,El Paso,El Paso,P.O. Box
+88530,El Paso,El Paso,P.O. Box
+88531,El Paso,El Paso,P.O. Box
+88532,El Paso,El Paso,P.O. Box
+88533,El Paso,El Paso,P.O. Box
+88534,El Paso,El Paso,P.O. Box
+88535,El Paso,El Paso,P.O. Box
+88536,El Paso,El Paso,P.O. Box
+88538,El Paso,El Paso,P.O. Box
+88539,El Paso,El Paso,P.O. Box
+88540,El Paso,El Paso,P.O. Box
+88541,El Paso,El Paso,P.O. Box
+88542,El Paso,El Paso,P.O. Box
+88543,El Paso,El Paso,P.O. Box
+88544,El Paso,El Paso,P.O. Box
+88545,El Paso,El Paso,P.O. Box
+88546,El Paso,El Paso,P.O. Box
+88547,El Paso,El Paso,P.O. Box
+88548,El Paso,El Paso,P.O. Box
+88549,El Paso,El Paso,P.O. Box
+88550,El Paso,El Paso,P.O. Box
+88553,El Paso,El Paso,P.O. Box
+88554,El Paso,El Paso,P.O. Box
+88555,El Paso,El Paso,P.O. Box
+88556,El Paso,El Paso,P.O. Box
+88557,El Paso,El Paso,P.O. Box
+88558,El Paso,El Paso,P.O. Box
+88559,El Paso,El Paso,P.O. Box
+88560,El Paso,El Paso,P.O. Box
+88561,El Paso,El Paso,P.O. Box
+88562,El Paso,El Paso,P.O. Box
+88563,El Paso,El Paso,P.O. Box
+88565,El Paso,El Paso,P.O. Box
+88566,El Paso,El Paso,P.O. Box
+88567,El Paso,El Paso,P.O. Box
+88568,El Paso,El Paso,P.O. Box
+88569,El Paso,El Paso,P.O. Box
+88570,El Paso,El Paso,P.O. Box
+88571,El Paso,El Paso,P.O. Box
+88572,El Paso,El Paso,P.O. Box
+88573,El Paso,El Paso,P.O. Box
+88574,El Paso,El Paso,P.O. Box
+88575,El Paso,El Paso,P.O. Box
+88576,El Paso,El Paso,P.O. Box
+88577,El Paso,El Paso,P.O. Box
+88578,El Paso,El Paso,P.O. Box
+88579,El Paso,El Paso,P.O. Box
+88580,El Paso,El Paso,P.O. Box
+88581,El Paso,El Paso,P.O. Box
+88582,El Paso,El Paso,P.O. Box
+88583,El Paso,El Paso,P.O. Box
+88584,El Paso,El Paso,P.O. Box
+88585,El Paso,El Paso,P.O. Box
+88586,El Paso,El Paso,P.O. Box
+88587,El Paso,El Paso,P.O. Box
+88588,El Paso,El Paso,P.O. Box
+88589,El Paso,El Paso,P.O. Box
+88590,El Paso,El Paso,P.O. Box
+88595,El Paso,El Paso,P.O. Box
